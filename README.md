@@ -1,4 +1,4 @@
-opencart-lang-danish
-====================
+Opencart Language pack - Danish
+===============================
 
-Danish language pack for Opencart
+Translation not ready yet
