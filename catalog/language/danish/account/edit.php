@@ -1,24 +1,24 @@
 <?php
 // Heading 
-$_['heading_title']     = 'My Account Information';
+$_['heading_title']     = 'Mine Konto Oplysninger';
 
 // Text
-$_['text_account']      = 'Account';
-$_['text_edit']         = 'Edit Information';
-$_['text_your_details'] = 'Your Personal Details';
-$_['text_success']      = 'Success: Your account has been successfully updated.';
+$_['text_account']      = 'Konto';
+$_['text_edit']         = 'Rediger Information';
+$_['text_your_details'] = 'Dine Personlige Detaljer';
+$_['text_success']      = 'Success: Din konto er blevet opdateret.';
 
 // Entry
-$_['entry_firstname']  = 'First Name:';
-$_['entry_lastname']   = 'Last Name:';
+$_['entry_firstname']  = 'Fornavn:';
+$_['entry_lastname']   = 'Efternavn:';
 $_['entry_email']      = 'E-Mail:';
-$_['entry_telephone']  = 'Telephone:';
+$_['entry_telephone']  = 'Telefonnummer:';
 $_['entry_fax']        = 'Fax:';
 
 // Error
-$_['error_exists']     = 'Warning: E-Mail address is already registered!';
-$_['error_firstname']  = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']   = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']      = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']  = 'Telephone must be between 3 and 32 characters!';
+$_['error_exists']     = 'Advarsel: E-Mail adressen er allerede registreret!';
+$_['error_firstname']  = 'Fornavn skal være mellem 1 og 32 tegn!';
+$_['error_lastname']   = 'Efternavn skal være mellem 1 og 32 tegn!';
+$_['error_email']      = 'E-Mail Adressen ser ikke ud til at være gyldig!';
+$_['error_telephone']  = 'Telefonnummer skal være mellem 3 og 32 tegn!';
 ?>

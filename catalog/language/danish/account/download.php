@@ -1,14 +1,14 @@
 <?php
 // Heading 
-$_['heading_title']   = 'Account Downloads';
+$_['heading_title']   = 'Konto Hentninger';
 
 // Text
-$_['text_account']    = 'Account';
-$_['text_downloads']  = 'Downloads';
-$_['text_order']      = 'Order ID:';
-$_['text_date_added'] = 'Date Added:';
-$_['text_name']       = 'Name:';
-$_['text_remaining']  = 'Remaining:';
-$_['text_size']       = 'Size:';
-$_['text_empty']      = 'You have not made any previous downloadable orders!';
+$_['text_account']    = 'Konto';
+$_['text_downloads']  = 'Hentninger';
+$_['text_order']      = 'Ordre ID:';
+$_['text_date_added'] = 'Dato tilføjet:';
+$_['text_name']       = 'Navn:';
+$_['text_remaining']  = 'Tilbage:';
+$_['text_size']       = 'Størrelse:';
+$_['text_empty']      = 'De har ingen tidligere ordrer der kan hentes!';
 ?>

@@ -1,17 +1,17 @@
 <?php
 // Heading 
-$_['heading_title']   = 'Forgot Your Password?';
+$_['heading_title']   = 'Glemt Din Adgangskode?';
 
 // Text
-$_['text_account']    = 'Account';
-$_['text_forgotten']  = 'Forgotten Password';
-$_['text_your_email'] = 'Your E-Mail Address';
-$_['text_email']      = 'Enter the e-mail address associated with your account. Click submit to have your password e-mailed to you.';
-$_['text_success']    = 'Success: A new password has been sent to your e-mail address.';
+$_['text_account']    = 'Konto';
+$_['text_forgotten']  = 'Glemt Adgangskode';
+$_['text_your_email'] = 'Din E-Mail Adresse';
+$_['text_email']      = 'Skriv E-Mail adressen der er forbundet med din konto. Klik send for at få din kode sendt til dig.';
+$_['text_success']    = 'Success: En ny adgangskode er sendt til din E-Mail adresse.';
 
 // Entry
-$_['entry_email']     = 'E-Mail Address:';
+$_['entry_email']     = 'E-Mail Adresse:';
 
 // Error
-$_['error_email']     = 'Warning: The E-Mail Address was not found in our records, please try again!';
+$_['error_email']     = 'Advarsel: E-Mail addressen blev ikke fundet i vores system, prøv venligst igen!';
 ?>
