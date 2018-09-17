@@ -1,25 +1,25 @@
 <?php
 // Heading
-$_['heading_title']    = 'Weight Class';
+$_['heading_title']    = 'Vægt Klasse';
 
 // Text
-$_['text_success']     = 'Success: You have modified weight classes!';
+$_['text_success']     = 'Success: Du har ændret vægt klasser!';
 
 // Column
-$_['column_title']     = 'Weight Title';
-$_['column_unit']      = 'Weight Unit';
-$_['column_value']     = 'Value';
-$_['column_action']    = 'Action';
+$_['column_title']     = 'Vægt Titel';
+$_['column_unit']      = 'Vægt Enhed';
+$_['column_value']     = 'Værdi';
+$_['column_action']    = 'Handling';
 
 // Entry
-$_['entry_title']      = 'Weight Title:';
-$_['entry_unit']       = 'Weight Unit:';
-$_['entry_value']      = 'Value:<br /><span class="help">Set to 1.00000 if this is your default weight.</span>';
+$_['entry_title']      = 'Vægt Titel:';
+$_['entry_unit']       = 'Vægt Enhed:';
+$_['entry_value']      = 'Værdi:<br /><span class="help">Sæt til 1.00000 hvis dette er din standard vægt.</span>';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify weight classes!';
-$_['error_title']      = 'Weight Title must be between 3 and 32 characters!';
-$_['error_unit']       = 'Weight Unit must be between 1 and 4 characters!';
-$_['error_default']    = 'Warning: This weight class cannot be deleted as it is currently assigned as the default store weight class!';
-$_['error_product']    = 'Warning: This weight class cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission'] = 'Advarsel: Du har ikke rettigheder til at ændre vægt klasser!';
+$_['error_title']      = 'Vægt Titel skal være mellem 3 og 32 tegn!';
+$_['error_unit']       = 'Vægt Enhed skal være nellem 1 og 4 tegn!';
+$_['error_default']    = 'Advarsel: Denne vægt klasse kan ikke slettes da den er tilknyttet som standard butiks vægt klasse!';
+$_['error_product']    = 'Advarsel: Denne vægt klasse kan ikke slettes da den er tilknyttet %s produkter!';
 ?>

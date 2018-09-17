@@ -3,13 +3,13 @@
 $_['heading_title']    = 'Google Base';
 
 // Text   
-$_['text_feed']        = 'Product Feeds';
-$_['text_success']     = 'Success: You have modified Google Base feed!';
+$_['text_feed']        = 'Produkt Strømme';
+$_['text_success']     = 'Success: Du har ændret Google Base strøm!';
 
 // Entry
 $_['entry_status']     = 'Status:';
-$_['entry_data_feed']  = 'Data Feed Url:';
+$_['entry_data_feed']  = 'Data Strøm Url:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Google Base feed!';
+$_['error_permission'] = 'Advarsel: Du har ikke rettigheder til at ændre Google Base strøm!';
 ?>

@@ -1,12 +1,12 @@
 <?php
 // Heading 
-$_['heading_title']    = 'Extension Manager';
+$_['heading_title']    = 'Udvidelses Manager';
 
 // Text
-$_['text_success']     = 'Success: You have installed your extension!';
+$_['text_success']     = 'Success: Du har installeret din udvidelse!';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify extension manager!';
-$_['error_upload']     = 'Upload required!';
-$_['error_filetype']   = 'Invalid file type!';
+$_['error_permission'] = 'Advarsel: Du har ikke rettigheder til at ændre udvidelses manageren!';
+$_['error_upload']     = 'Upload påkrævet!';
+$_['error_filetype']   = 'Ugyldig filtype!';
 ?>

@@ -1,36 +1,36 @@
 <?php
 // Heading
-$_['heading_title']     = 'Language';  
+$_['heading_title']     = 'Sprog';  
 
 // Text
-$_['text_success']      = 'Success: You have modified languages!'; 
+$_['text_success']      = 'Success: Du har ændret dine sprog!'; 
 
 // Column
-$_['column_name']       = 'Language Name';
-$_['column_code']       = 'Code';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Sprog Navn';
+$_['column_code']       = 'Kode';
+$_['column_sort_order'] = 'Sorterings Orden';
+$_['column_action']     = 'Handling';
 
 // Entry
-$_['entry_name']        = 'Language Name:';
-$_['entry_code']        = 'Code:<br /><span class="help">eg: en. Do not change if this is your default language.</span>';
-$_['entry_locale']      = 'Locale:<br /><span class="help">eg: en_US.UTF-8,en_US,en-gb,en_gb,english</span>';
-$_['entry_image']       = 'Image:<br /><span class="help">eg: gb.png</span>';
-$_['entry_directory']   = 'Directory:<br /><span class="help">name of the language directory (case-sensitive)</span>';
-$_['entry_filename']    = 'Filename:<br /><span class="help">main language filename without extension</span>';
-$_['entry_status']      = 'Status:<br /><span class="help">Hide/Show it in language dropdown</span>';
-$_['entry_sort_order']  = 'Sort Order:';
+$_['entry_name']        = 'Sprog Navn:';
+$_['entry_code']        = 'Kode:<br /><span class="help">eg: dk. Ændre ikke dette hvis dette er dit standard sprog.</span>';
+$_['entry_locale']      = 'Locale:<br /><span class="help">eg: da_DK.UTF-8,dansk</span>';
+$_['entry_image']       = 'Billede:<br /><span class="help">eg: danish.png</span>';
+$_['entry_directory']   = 'Mappe:<br /><span class="help">navn på sprog mappen (case-sensitive)</span>';
+$_['entry_filename']    = 'Filenavn:<br /><span class="help">hoved sprog filnavn uden endelse</span>';
+$_['entry_status']      = 'Status:<br /><span class="help">Gem/Vis den i sprog rullemenu</span>';
+$_['entry_sort_order']  = 'Sorterings Orden:';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify languages!';
-$_['error_name']        = 'Language Name must be between 3 and 32 characters!';
-$_['error_code']        = 'Language Code must at least 2 characters!';
-$_['error_locale']      = 'Locale required!';
-$_['error_image']       = 'Image Filename must be between 3 and 64 characters!';
-$_['error_directory']   = 'Directory required!';
-$_['error_filename']    = 'Filename must be between 3 and 64 characters!';
-$_['error_default']     = 'Warning: This language cannot be deleted as it is currently assigned as the default store language!';
-$_['error_admin']       = 'Warning: This Language cannot be deleted as it is currently assigned as the administration language!';
-$_['error_store']       = 'Warning: This language cannot be deleted as it is currently assigned to %s stores!';
-$_['error_order']       = 'Warning: This language cannot be deleted as it is currently assigned to %s orders!';
+$_['error_permission']  = 'Advarsel: Du har ikke rettigheder til at ændre sprog!';
+$_['error_name']        = 'Sprog Navn skal være mellem 3 og 32 tegn!';
+$_['error_code']        = 'Sprog Kode skal være mindst 2 tegn!';
+$_['error_locale']      = 'Locale påkrævet!';
+$_['error_image']       = 'Billede Filnavn skal være mellem 3 og 64 tegn!';
+$_['error_directory']   = 'Mappe påkrævet!';
+$_['error_filename']    = 'Filnavn skal være mellem 3 og 64 tegn!';
+$_['error_default']     = 'Advarsel: Dette sprog kan ikke slettes da det er tilknyttet som standard butikssprog!';
+$_['error_admin']       = 'Advarsel: Dette sprog kan ikke slettes da det er tilknyttet som administrations sprog!';
+$_['error_store']       = 'Advarsel: Dette sprog kan ikke slettes da det er tilknyttet til %s butikker!';
+$_['error_order']       = 'Advarsel: Dette sprog kan ikke slettes da det er tilknyttet til %s ordrer!';
 ?>

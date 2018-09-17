@@ -1,46 +1,46 @@
 <?php
 // Heading
-$_['heading_title']    = 'Image Manager';
+$_['heading_title']    = 'Billede Manager';
  
 // Text
-$_['text_uploaded']    = 'Success: Your file has been uploaded!';
-$_['text_file_delete'] = 'File has been deleted!';
-$_['text_create']      = 'Success: Directory created!';
-$_['text_delete']      = 'Success: Your file or directory has been deleted!';
-$_['text_move']        = 'Success: Your file or directory has been moved!';
-$_['text_copy']        = 'Success: Your file or directory has been copied!';
-$_['text_rename']      = 'Success: Your file or directory has been renamed!';
+$_['text_uploaded']    = 'Success: Din fil er blevet uploaded!';
+$_['text_file_delete'] = 'Filen er blevet slettet!';
+$_['text_create']      = 'Success: Mappe oprettet!';
+$_['text_delete']      = 'Success: Din fil eller mappe er blevet slettet!';
+$_['text_move']        = 'Success: Din fil eller mappe er blevet flyttet!';
+$_['text_copy']        = 'Success: Din fil eller mappe er blevet kopieret!';
+$_['text_rename']      = 'Success: Din fil eller mappe er blevet omdøbt!';
 
 // Entry
-$_['entry_folder']     = 'New Folder:';
-$_['entry_move']       = 'Move:';
-$_['entry_copy']       = 'Name:';
-$_['entry_rename']     = 'Name:';
+$_['entry_folder']     = 'Ny Mappe:';
+$_['entry_move']       = 'Flyt:';
+$_['entry_copy']       = 'Navn:';
+$_['entry_rename']     = 'Navn:';
 
 // Error
-$_['error_select']     = 'Warning: Please select a directory or file!';
-$_['error_file']       = 'Warning: Please select a file!';
-$_['error_directory']  = 'Warning: Please select a directory!';
-$_['error_default']    = 'Warning: Can not alter your default directory!';
-$_['error_delete']     = 'Warning: You can not delete this directory!';
-$_['error_filename']   = 'Warning: Filename must be a between 3 and 255!';
-$_['error_missing']    = 'Warning: File or directory does not exist!';
-$_['error_exists']     = 'Warning: A file or directory with the same name already exists!';
-$_['error_name']       = 'Warning: Please enter a new name!';
-$_['error_move']       = 'Warning: Move to directory does not exists!';
-$_['error_copy']       = 'Warning: Can not copy this file or directory!';
-$_['error_rename']     = 'Warning: Can not rename this directory!';
-$_['error_file_type']  = 'Warning: Incorrect file type!';
-$_['error_file_size']  = 'Warning: File too big please keep below 300kb and no more than 1000px height or width!';
-$_['error_uploaded']   = 'Warning: File could not be uploaded for an unknown reason!';
-$_['error_permission'] = 'Warning: Permission Denied!';
+$_['error_select']     = 'Advarsel: Venligst vælg en mappe eller fil!';
+$_['error_file']       = 'Advarsel: venligst vælg en fil!';
+$_['error_directory']  = 'Advarsel: Venligst vælg en mappe!';
+$_['error_default']    = 'Advarsel: Kan ikke ændre din standard mappe!';
+$_['error_delete']     = 'Advarsel: Du kan ikke slette denne mappe!';
+$_['error_filename']   = 'Advarsel: Filnavn skal være mellem 3 og 255 tegn!';
+$_['error_missing']    = 'Advarsel: Fil eller mappe eksisterer ikke!';
+$_['error_exists']     = 'Advarsel: En fil eller mappe med samme navn eksisterer allerede!';
+$_['error_name']       = 'Advarsel: Venligst skriv et nyt navn!';
+$_['error_move']       = 'Advarsel: Flyt til ikke eksisterende mappe!';
+$_['error_copy']       = 'Advarsel: Kan ikke kopiere denne fil eller mappe!';
+$_['error_rename']     = 'Advarsel: Kan ikke omdøbe denne mappe!';
+$_['error_file_type']  = 'Advarsel: Ukorrekt filtype!';
+$_['error_file_size']  = 'Advarsel: Filen er for stor, hold den under 300kb og ikke mere end 1000px høj eller bred!';
+$_['error_uploaded']   = 'Advarsel: Filen kunne ikke uploades af ukendte årsager!';
+$_['error_permission'] = 'Advarsel: Forbudte Rettigheder!';
 
 // Button
-$_['button_folder']    = 'New Folder';
-$_['button_delete']    = 'Delete';
-$_['button_move']      = 'Move';
-$_['button_copy']      = 'Copy';
-$_['button_rename']    = 'Rename';
+$_['button_folder']    = 'Ny Mappe';
+$_['button_delete']    = 'Slet';
+$_['button_move']      = 'Flyt';
+$_['button_copy']      = 'Kopiér';
+$_['button_rename']    = 'Omdøb';
 $_['button_upload']    = 'Upload';
-$_['button_refresh']   = 'Refresh';
+$_['button_refresh']   = 'Genopfrisk';
 ?>

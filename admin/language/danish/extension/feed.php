@@ -1,16 +1,16 @@
 <?php
 // Heading 
-$_['heading_title']    = 'Product Feeds';
+$_['heading_title']    = 'Produkt Strøm';
 
 // Text
-$_['text_install']     = 'Install';
-$_['text_uninstall']   = 'Uninstall';
+$_['text_install']     = 'Installér';
+$_['text_uninstall']   = 'Afinstallér';
 
 // Column
-$_['column_name']      = 'Product Feed Name';
+$_['column_name']      = 'Produkt Strøm Navn';
 $_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Handling';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify feeds!';
+$_['error_permission'] = 'Advarsel: Du har ikke rettigheder til at ændre disse strømme!';
 ?>

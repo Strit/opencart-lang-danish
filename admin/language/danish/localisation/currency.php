@@ -1,31 +1,31 @@
 <?php
 // Heading
-$_['heading_title']        = 'Currency';  
+$_['heading_title']        = 'Valuta';  
 
 // Text
-$_['text_success']         = 'Success: You have modified currencies!';
+$_['text_success']         = 'Success: Du har ændret valuta!';
 
 // Column
-$_['column_title']         = 'Currency Title';
-$_['column_code']          = 'Code'; 
-$_['column_value']         = 'Value';
-$_['column_date_modified'] = 'Last Updated';
-$_['column_action']        = 'Action';
+$_['column_title']         = 'Valuta Titel';
+$_['column_code']          = 'Kode'; 
+$_['column_value']         = 'Værdi';
+$_['column_date_modified'] = 'Sidst Opdateret';
+$_['column_action']        = 'Handling';
 
 // Entry
-$_['entry_title']          = 'Currency Title:';
-$_['entry_code']           = 'Code:<br /><span class="help">Do not change if this is your default currency. Must be valid <a href="http://www.xe.com/iso4217.php" target="_blank">ISO code</a>.</span>';
-$_['entry_value']          = 'Value:<br /><span class="help">Set to 1.00000 if this is your default currency.</span>';
-$_['entry_symbol_left']    = 'Symbol Left:';
-$_['entry_symbol_right']   = 'Symbol Right:';
-$_['entry_decimal_place']  = 'Decimal Places:';
+$_['entry_title']          = 'Valuta Titel:';
+$_['entry_code']           = 'Kode:<br /><span class="help">Dette skal ikke ændres hvis det er din standard valuta. Skal være gyldig <a href="http://www.xe.com/iso4217.php" target="_blank">ISO kode</a>.</span>';
+$_['entry_value']          = 'Værdi:<br /><span class="help">Sæt til 1.00000 hvis det er din standard valuta.</span>';
+$_['entry_symbol_left']    = 'Symbol Venstre:';
+$_['entry_symbol_right']   = 'Symbol Højre:';
+$_['entry_decimal_place']  = 'Decimal Pladser:';
 $_['entry_status']         = 'Status:';
 
 // Error
-$_['error_permission']     = 'Warning: You do not have permission to modify currencies!';
-$_['error_title']          = 'Currency Title must be between 3 and 32 characters!';
-$_['error_code']           = 'Currency Code must contain 3 characters!';
-$_['error_default']        = 'Warning: This currency cannot be deleted as it is currently assigned as the default store currency!';
-$_['error_store']          = 'Warning: This currency cannot be deleted as it is currently assigned to %s stores!';
-$_['error_order']          = 'Warning: This currency cannot be deleted as it is currently assigned to %s orders!';
+$_['error_permission']     = 'Advarsel: Du har ikke rettigheder til at ændre valutaer!';
+$_['error_title']          = 'Valuta Titel skal være mellem 3 og 32 tegn!';
+$_['error_code']           = 'Valuta Kode skal indeholde 3 tegn!';
+$_['error_default']        = 'Advarsel: Denne valuta kan ikke slettes da den er sat til standard butiks valuta!';
+$_['error_store']          = 'Advarsel: Denne valuta kan ikke slettes da den er sat til %s butikker!';
+$_['error_order']          = 'Advarsel: Denne valuta kan ikke slettes da den er sat til %s ordrer!';
 ?>

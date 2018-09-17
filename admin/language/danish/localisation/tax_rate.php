@@ -1,31 +1,31 @@
 <?php
 // Heading
-$_['heading_title']        = 'Tax Rates';
+$_['heading_title']        = 'Moms Rater';
 
 // Text
-$_['text_percent']         = 'Percentage';
-$_['text_amount']          = 'Fixed Amount';
-$_['text_success']         = 'Success: You have modified tax classes!';
+$_['text_percent']         = 'Procent';
+$_['text_amount']          = 'Fast Beløb';
+$_['text_success']         = 'Success: Du har ændret moms klasser!';
 
 // Column
-$_['column_name']          = 'Tax Name';
-$_['column_rate']          = 'Tax Rate';
+$_['column_name']          = 'Moms Navn';
+$_['column_rate']          = 'Moms Rate';
 $_['column_type']          = 'Type';
 $_['column_geo_zone']      = 'Geo Zone';
-$_['column_date_added']    = 'Date Added';
-$_['column_date_modified'] = 'Date Modified';
-$_['column_action']        = 'Action';
+$_['column_date_added']    = 'Dato Tilføjet';
+$_['column_date_modified'] = 'Dato Ændret';
+$_['column_action']        = 'Handling';
 
 // Entry
-$_['entry_name']           = 'Tax Name:';
-$_['entry_rate']           = 'Tax Rate:';
+$_['entry_name']           = 'Moms Navn:';
+$_['entry_rate']           = 'Moms Rate:';
 $_['entry_type']           = 'Type:';
-$_['entry_customer_group'] = 'Customer Group:';
+$_['entry_customer_group'] = 'Kunde Gruppe:';
 $_['entry_geo_zone']       = 'Geo Zone:';
 
 // Error
-$_['error_permission']     = 'Warning: You do not have permission to modify tax classes!';
-$_['error_tax_rule']       = 'Warning: This tax rate cannot be deleted as it is currently assigned to %s tax classes!';
-$_['error_name']           = 'Tax Name must be between 3 and 32 characters!';
-$_['error_rate']           = 'Tax Rate required!';
+$_['error_permission']     = 'Advarsel: Du har ikke rettigheder til at ændre moms klasser!';
+$_['error_tax_rule']       = 'Advarsel: Denne moms rate kan ikke slettes da den er tilknyttet %s moms klasser!';
+$_['error_name']           = 'Moms Navn skal være mellem 3 og 32 tegn!';
+$_['error_rate']           = 'Moms Rate påkrøvet!';
 ?>

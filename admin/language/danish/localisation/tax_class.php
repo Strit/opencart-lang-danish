@@ -1,28 +1,28 @@
 <?php
 // Heading
-$_['heading_title']     = 'Tax Class';
+$_['heading_title']     = 'Moms Klasse';
 
 // Text
-$_['text_shipping']     = 'Shipping Address';
-$_['text_payment']      = 'Payment Address';
-$_['text_store']        = 'Store Address';
-$_['text_success']      = 'Success: You have modified tax classes!';
+$_['text_shipping']     = 'Leverings Adresse';
+$_['text_payment']      = 'Betalings Adresse';
+$_['text_store']        = 'Butiks Adresse';
+$_['text_success']      = 'Success: Du har ændret moms klasser!';
 
 // Column
-$_['column_title']      = 'Tax Class Title';
-$_['column_action']     = 'Action';
+$_['column_title']      = 'Moms Klasse Titel';
+$_['column_action']     = 'Handling';
 
 // Entry
-$_['entry_title']       = 'Tax Class Title:';
-$_['entry_description'] = 'Description:';
-$_['entry_rate']        = 'Tax Rate:';
-$_['entry_based']       = 'Based On:';
+$_['entry_title']       = 'Moms Klasse Titel:';
+$_['entry_description'] = 'Beskrivelse:';
+$_['entry_rate']        = 'Moms Rate:';
+$_['entry_based']       = 'Baseret På:';
 $_['entry_geo_zone']    = 'Geo Zone:';
-$_['entry_priority']    = 'Priority:';
+$_['entry_priority']    = 'Prioritet:';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify tax classes!';
-$_['error_title']       = 'Tax Class Title must be between 3 and 32 characters!';
-$_['error_description'] = 'Description must be between 3 and 255 characters!';
-$_['error_product']     = 'Warning: This tax class cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']  = 'Advarsel: Du har ikke rettigheder til at ændre moms klasser!';
+$_['error_title']       = 'Moms Klasse Titel skal være mellem 3 og 32 tegn!';
+$_['error_description'] = 'Beskrivelse skal være mellem 3 og 255 tegn!';
+$_['error_product']     = 'Advarsel: Denne moms klasse kan ikke slettes da den er tilknyttet %s produkter!';
 ?>

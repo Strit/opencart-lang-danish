@@ -1,19 +1,19 @@
 <?php
 // Heading
-$_['heading_title']    = 'Return Reason';
+$_['heading_title']    = 'Returnerings Grund';
 
 // Text
-$_['text_success']     = 'Success: You have modified return reasons!';
+$_['text_success']     = 'Success: Du har ændret returnerings grunde!';
 
 // Column
-$_['column_name']      = 'Return Reason Name';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Returnerings Grund Navn';
+$_['column_action']    = 'Handling';
 
 // Entry
-$_['entry_name']       = 'Return Reason Name:';
+$_['entry_name']       = 'Returnerings Grund Navn:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify return reasons!';
-$_['error_name']       = 'Return Reason Name must be between 3 and 32 characters!';
-$_['error_return']     = 'Warning: This return reason cannot be deleted as it is currently assigned to %s returned products!';
+$_['error_permission'] = 'Advarsel: Du har ikke rettigheder til at ændre returnerings grunde!';
+$_['error_name']       = 'Returnerings Grund Navn skal være mellem 3 og 32 tegn!';
+$_['error_return']     = 'Advarsel: Denne returnerings grund kan ikke slettes da den er tilknyttet til %s returnerede produkter!';
 ?>

@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']     = 'Shipping';
+$_['heading_title']     = 'Levering';
 
 // Text
-$_['text_install']      = 'Install';
-$_['text_uninstall']    = 'Uninstall';
+$_['text_install']      = 'Installèr';
+$_['text_uninstall']    = 'Afinstallèr';
 
 // Column
-$_['column_name']       = 'Shipping Method';
+$_['column_name']       = 'Leveringsmetode';
 $_['column_status']     = 'Status';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_sort_order'] = 'Sorterings Orden';
+$_['column_action']     = 'Handling';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify shipping!';
+$_['error_permission']  = 'Advarsel: Du har ikke rettigheder til at ændre levering!';
 ?>

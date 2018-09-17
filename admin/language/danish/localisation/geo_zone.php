@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']      = 'Geo Zones';
+$_['heading_title']      = 'Geo Zoner';
 
 // Text
-$_['text_success']       = 'Success: You have modified geo zones!';
+$_['text_success']       = 'Success: Du har ændret geo zoner!';
 
 // Column
-$_['column_name']        = 'Geo Zone Name';
-$_['column_description'] = 'Description';
-$_['column_action']      = 'Action';
+$_['column_name']        = 'Geo Zone Navn';
+$_['column_description'] = 'Beskrivelse';
+$_['column_action']      = 'Handling';
 
 // Entry
-$_['entry_name']         = 'Geo Zone Name:';
-$_['entry_description']  = 'Description:';
-$_['entry_country']      = 'Country:';
+$_['entry_name']         = 'Geo Zone Navn:';
+$_['entry_description']  = 'Beskrivelse:';
+$_['entry_country']      = 'Land:';
 $_['entry_zone']         = 'Zone:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify geo zones!';
-$_['error_name']         = 'Geo Zone Name must be between 3 and 32 characters!';
-$_['error_description']  = 'Description Name must be between 3 and 255 characters!';
-$_['error_tax_rate']     = 'Warning: This geo zone cannot be deleted as it is currently assigned to one or more tax rates!';
+$_['error_permission']   = 'Advarsel: Du har ikke rettigheder til at ændre geo zoner!';
+$_['error_name']         = 'Geo Zone Navn skal være mellem 3 og 32 tegn!';
+$_['error_description']  = 'Beskrivelse Navn skal være mellem 3 og 255 tegn!';
+$_['error_tax_rate']     = 'Advarsel: Denne geo zone kan ikke slettes da den er tilknyttet til en eller flere moms rater!';
 ?>

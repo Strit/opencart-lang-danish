@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title']    = 'Return Status';
+$_['heading_title']    = 'Returnerings Status';
 
 // Text
-$_['text_success']     = 'Success: You have modified return statuses!';
+$_['text_success']     = 'Success: Du har ændret returnerings status!';
 
 // Column
-$_['column_name']      = 'Return Status Name';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Returnerings Status Navn';
+$_['column_action']    = 'Handling';
 
 // Entry
-$_['entry_name']       = 'Return Status Name:';
+$_['entry_name']       = 'Returnerings Status Navn:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify return statues!';
-$_['error_name']       = 'Return Status Name must be between 3 and 32 characters!';
-$_['error_default']    = 'Warning: This return status cannot be deleted as it is currently assigned as the default return status!';
-$_['error_return']     = 'Warning: This return status cannot be deleted as it is currently assigned to %s returns!';
+$_['error_permission'] = 'Advarsel: Du har ikke rettigheder til at ændre returnerings status!';
+$_['error_name']       = 'Returnerings Status Navn skal være mellem 3 og 32 tegn!';
+$_['error_default']    = 'Advarsel: Denne returnerings status kan ikke slettes da den er tilknyttet som standard returnerings status!';
+$_['error_return']     = 'Advarsel: Denne returnerings status kan ikke slettes da den er tilknyttet %s returneringer!';
 ?>

@@ -3,24 +3,24 @@
 $_['heading_title']     = 'Layouts';
 
 // Text
-$_['text_success']      = 'Success: You have modified layouts!';
-$_['text_default']      = 'Default';
+$_['text_success']      = 'Success: Du har ændret layouts!';
+$_['text_default']      = 'Standard';
 
 // Column
-$_['column_name']       = 'Layout Name';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Layout Navn';
+$_['column_action']     = 'Handling';
 
 // Entry
-$_['entry_name']        = 'Layout Name:';
-$_['entry_store']       = 'Store:';
-$_['entry_route']       = 'Route:';
+$_['entry_name']        = 'Layout Navn:';
+$_['entry_store']       = 'Betik:';
+$_['entry_route']       = 'Rute:';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify layouts!';
-$_['error_name']        = 'Layout Name must be between 3 and 64 characters!';
-$_['error_default']     = 'Warning: This layout cannot be deleted as it is currently assigned as the default store layout!';
-$_['error_store']       = 'Warning: This layout cannot be deleted as it is currently assigned to %s stores!';
-$_['error_product']     = 'Warning: This layout cannot be deleted as it is currently assigned to %s products!';
-$_['error_category']    = 'Warning: This layout cannot be deleted as it is currently assigned to %s categories!';
-$_['error_information'] = 'Warning: This layout cannot be deleted as it is currently assigned to %s information pages!';
+$_['error_permission']  = 'Advarsel: Du har ikke rettigheder til at ændre layouts!';
+$_['error_name']        = 'Layout Navn skal være mellem 3 og 64 tegn!';
+$_['error_default']     = 'Advarsel: Dette layout kan ikke slettet, da det bliver brugt som standard butik layout!';
+$_['error_store']       = 'Advarsel: Dette layout kan ikke slettet, da det bliver brugt til %s butikker!';
+$_['error_product']     = 'Advarsel: Dette layout kan ikke slettet, da det bliver brugt til %s produkter!';
+$_['error_category']    = 'Advarsel: Dette layout kan ikke slettet, da det bliver brugt til %s kategorier!';
+$_['error_information'] = 'Advarsel: Dette layout kan ikke slettet, da det bliver brugt til %s information sider!';
 ?>
