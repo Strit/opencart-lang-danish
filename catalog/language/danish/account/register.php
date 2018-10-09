@@ -1,52 +1,52 @@
 <?php
 // Heading 
-$_['heading_title']        = 'Register Account';
+$_['heading_title']        = 'Registrer Konto';
 
 // Text
-$_['text_account']         = 'Account';
-$_['text_register']        = 'Register';
-$_['text_account_already'] = 'If you already have an account with us, please login at the <a href="%s">login page</a>.';
-$_['text_your_details']    = 'Your Personal Details';
-$_['text_your_address']    = 'Your Address';
-$_['text_newsletter']      = 'Newsletter';
-$_['text_your_password']   = 'Your Password';
-$_['text_agree']           = 'I have read and agree to the <a class="colorbox" href="%s" alt="%s"><b>%s</b></a>';
+$_['text_account']         = 'Konto';
+$_['text_register']        = 'Registrer';
+$_['text_account_already'] = 'Hvis du allerede har en konto hos os, så vær venlig at logge in via <a href="%s">login siden</a>.';
+$_['text_your_details']    = 'Dine Personlige Detaljer';
+$_['text_your_address']    = 'Din Adresse';
+$_['text_newsletter']      = 'Nyhedsbrev';
+$_['text_your_password']   = 'Din Adgangskode';
+$_['text_agree']           = 'Jeg har læst og er enig med <a class="colorbox" href="%s" alt="%s"><b>%s</b></a>';
 
 // Entry
-$_['entry_firstname']      = 'First Name:';
-$_['entry_lastname']       = 'Last Name:';
+$_['entry_firstname']      = 'Fornavn:';
+$_['entry_lastname']       = 'Efternavn:';
 $_['entry_email']          = 'E-Mail:';
-$_['entry_telephone']      = 'Telephone:';
+$_['entry_telephone']      = 'Telefon:';
 $_['entry_fax']            = 'Fax:';
-$_['entry_company']        = 'Company:';
-$_['entry_customer_group'] = 'Business Type:';
-$_['entry_company_id']     = 'Company ID:';
-$_['entry_tax_id']         = 'Tax ID:';
-$_['entry_address_1']      = 'Address 1:';
-$_['entry_address_2']      = 'Address 2:';
-$_['entry_postcode']       = 'Post Code:';
-$_['entry_city']           = 'City:';
-$_['entry_country']        = 'Country:';
-$_['entry_zone']           = 'Region / State:';
-$_['entry_newsletter']     = 'Subscribe:';
-$_['entry_password']       = 'Password:';
-$_['entry_confirm']        = 'Password Confirm:';
+$_['entry_company']        = 'Firma:';
+$_['entry_customer_group'] = 'Virksomheds Type:';
+$_['entry_company_id']     = 'Firma ID:';
+$_['entry_tax_id']         = 'Moms ID:';
+$_['entry_address_1']      = 'Adresse 1:';
+$_['entry_address_2']      = 'Adresse 2:';
+$_['entry_postcode']       = 'Postnummer:';
+$_['entry_city']           = 'By:';
+$_['entry_country']        = 'Land:';
+$_['entry_zone']           = 'Region / Stat:';
+$_['entry_newsletter']     = 'Abonner:';
+$_['entry_password']       = 'Adgangskode:';
+$_['entry_confirm']        = 'Bekræft Adgangskode:';
 
 // Error
-$_['error_exists']         = 'Warning: E-Mail Address is already registered!';
-$_['error_firstname']      = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']       = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']          = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']      = 'Telephone must be between 3 and 32 characters!';
-$_['error_password']       = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']        = 'Password confirmation does not match password!';
-$_['error_company_id']     = 'Company ID required!';
-$_['error_tax_id']         = 'Tax ID required!';
-$_['error_vat']            = 'VAT number is invalid!';
-$_['error_address_1']      = 'Address 1 must be between 3 and 128 characters!';
-$_['error_city']           = 'City must be between 2 and 128 characters!';
-$_['error_postcode']       = 'Postcode must be between 2 and 10 characters!';
-$_['error_country']        = 'Please select a country!';
-$_['error_zone']           = 'Please select a region / state!';
-$_['error_agree']          = 'Warning: You must agree to the %s!';
+$_['error_exists']         = 'Advarsel: E-Mail Adressen er allerede registreret!';
+$_['error_firstname']      = 'Fornavn skal være mellem 1 og 32 tegn!';
+$_['error_lastname']       = 'Efternavn skal være mellem 1 og 32 tegn!';
+$_['error_email']          = 'E-Mail Adressen ser ikke ud til at være gyldig!';
+$_['error_telephone']      = 'Telefon skal være mellem 3 og 32 tegn!';
+$_['error_password']       = 'Adgangskode skal være mellem 4 og 20 tegn!';
+$_['error_confirm']        = 'Adgangskode bekræftelsen passer ikke med adgangskoden!';
+$_['error_company_id']     = 'Firma ID er påkrævet!';
+$_['error_tax_id']         = 'Moms ID er påkrævet!';
+$_['error_vat']            = 'VAT nummer er ikke gyldig!';
+$_['error_address_1']      = 'Adresse 1 skal være mellem 3 og 128 tegn!';
+$_['error_city']           = 'By skal være mellem 2 og 128 tegn!';
+$_['error_postcode']       = 'Postnummer skal være mellem 2 og 10 tegn!';
+$_['error_country']        = 'Vælg venligst et land!';
+$_['error_zone']           = 'Vælg venligst en region / stat!';
+$_['error_agree']          = 'Advarsel: Du skal være enig med %s!';
 ?>

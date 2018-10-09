@@ -1,29 +1,29 @@
 <?php
 // Heading 
-$_['heading_title']    = 'Purchase a Gift Certificate';
+$_['heading_title']    = 'Køb et gavekort';
 
 // Text
-$_['text_account']     = 'Account';
-$_['text_voucher']     = 'Gift Voucher';
-$_['text_description'] = 'This gift certificate will be emailed to the recipient after your order has been paid for.';
-$_['text_agree']       = 'I understand that gift certificates are non-refundable.';
-$_['text_message']     = '<p>Thank you for purchasing a gift certificate! Once you have completed your order your gift voucher recipient will be sent an email with details how to redeem their gift voucher.</p>';
-$_['text_for']         = '%s Gift Certificate for %s';
+$_['text_account']     = 'Konto';
+$_['text_voucher']     = 'Gavekort';
+$_['text_description'] = 'Dette gavekort vil blive sendt med email til modtageren efter din ordre er betalt.';
+$_['text_agree']       = 'Jeg er indforstået med at gavekort ikke kan refunderes.';
+$_['text_message']     = '<p>Tak for at du købte et gavekort! Når ordren er færdig vil modtageren af dit gavekort få tilsendt en email med detaljer om hvordan den indløses.</p>';
+$_['text_for']         = '%s Gavekort til %s';
 
 // Entry
-$_['entry_to_name']    = 'Recipient\'s Name:';
-$_['entry_to_email']   = 'Recipient\'s Email:';
-$_['entry_from_name']  = 'Your Name:';
-$_['entry_from_email'] = 'Your Email:';
-$_['entry_theme']      = 'Gift Certificate Theme:';
-$_['entry_message']    = 'Message:<br /><span class="help">(Optional)</span>';
-$_['entry_amount']     = 'Amount:<br /><span class="help">(Value must be between %s and %s)</span>';
+$_['entry_to_name']    = 'Modtagers Navn:';
+$_['entry_to_email']   = 'Modtagers Email:';
+$_['entry_from_name']  = 'Dit Navn:';
+$_['entry_from_email'] = 'Din Email:';
+$_['entry_theme']      = 'Gavekort Tema:';
+$_['entry_message']    = 'Besked:<br /><span class="help">(Valgfrit)</span>';
+$_['entry_amount']     = 'Beløb:<br /><span class="help">(Beløb skal være mellem %s og %s)</span>';
 
 // Error
-$_['error_to_name']    = 'Recipient\'s Name must be between 1 and 64 characters!';
-$_['error_from_name']  = 'Your Name must be between 1 and 64 characters!';
-$_['error_email']      = 'E-Mail Address does not appear to be valid!';
-$_['error_theme']      = 'You must select a theme!';
-$_['error_amount']     = 'Amount must be between %s and %s!';
-$_['error_agree']      = 'Warning: You must agree that the gift certificates are non-refundable!';
+$_['error_to_name']    = 'Modtagers Navn skal være mellem 1 og 64 tegn!';
+$_['error_from_name']  = 'Dit navn skal være mellem 1 og 64 tegn!';
+$_['error_email']      = 'Email Adressen ser ikke ud til at være gyldig!';
+$_['error_theme']      = 'Du skal vækge et tema!';
+$_['error_amount']     = 'Beløb skal være mellem %s og %s!';
+$_['error_agree']      = 'Advarsel: Du er enig med at gavekort ikke kan refunderes!';
 ?>

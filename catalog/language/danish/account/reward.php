@@ -1,15 +1,15 @@
 <?php
 // Heading 
-$_['heading_title']      = 'Your Reward Points';
+$_['heading_title']      = 'Dine Reward Point';
 
 // Column
-$_['column_date_added']  = 'Date Added';
-$_['column_description'] = 'Description';
-$_['column_points']      = 'Points';
+$_['column_date_added']  = 'Dato Tilføjet';
+$_['column_description'] = 'Beskrivelse';
+$_['column_points']      = 'Point';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_reward']        = 'Reward Points';
-$_['text_total']         = 'Your total number of reward points is:';
-$_['text_empty']         = 'You do not have any reward points!';
+$_['text_account']       = 'Konto';
+$_['text_reward']        = 'Reward Point';
+$_['text_total']         = 'Dit totale antal reward point er:';
+$_['text_empty']         = 'Du har ikke nogle reward point!';
 ?>

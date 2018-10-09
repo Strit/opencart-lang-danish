@@ -1,15 +1,15 @@
 <?php
 // Heading 
-$_['heading_title']      = 'Your Transactions';
+$_['heading_title']      = 'Dine Overførsler';
 
 // Column
-$_['column_date_added']  = 'Date Added';
-$_['column_description'] = 'Description';
-$_['column_amount']      = 'Amount (%s)';
+$_['column_date_added']  = 'Dato Tilføjet';
+$_['column_description'] = 'Beskrivelse';
+$_['column_amount']      = 'Mængde (%s)';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_transaction']   = 'Your Transactions';
-$_['text_total']         = 'Your current balance is:';
-$_['text_empty']         = 'You do not have any transactions!';
+$_['text_account']       = 'Konto';
+$_['text_transaction']   = 'Dine Overførsler';
+$_['text_total']         = 'Din nuværende balance er:';
+$_['text_empty']         = 'Du har ingen overførsler!';
 ?>

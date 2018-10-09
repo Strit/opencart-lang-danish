@@ -1,36 +1,36 @@
 <?php
 // Heading 
-$_['heading_title']         = 'Order History';
+$_['heading_title']         = 'Ordre Historik';
 
 // Text
-$_['text_account']          = 'Account';
-$_['text_order']            = 'Order Information';
-$_['text_order_detail']     = 'Order Details';
+$_['text_account']          = 'Konto';
+$_['text_order']            = 'Ordre Information';
+$_['text_order_detail']     = 'Ordre Detaljer';
 $_['text_invoice_no']       = 'Invoice No.:';
-$_['text_order_id']         = 'Order ID:';
+$_['text_order_id']         = 'Ordre ID:';
 $_['text_status']           = 'Status:';
-$_['text_date_added']       = 'Date Added:';
-$_['text_customer']         = 'Customer:';
-$_['text_shipping_address'] = 'Shipping Address';
-$_['text_shipping_method']  = 'Shipping Method:';
-$_['text_payment_address']  = 'Payment Address';
-$_['text_payment_method']   = 'Payment Method:';
-$_['text_products']         = 'Products:';
+$_['text_date_added']       = 'Dato Tilføjet:';
+$_['text_customer']         = 'Kunde:';
+$_['text_shipping_address'] = 'Leverings Adresse';
+$_['text_shipping_method']  = 'Leverings Metode:';
+$_['text_payment_address']  = 'Betalings Adresse';
+$_['text_payment_method']   = 'Betalings Metode:';
+$_['text_products']         = 'Produkter:';
 $_['text_total']            = 'Total:';
-$_['text_comment']          = 'Order Comments';
-$_['text_history']          = 'Order History';
-$_['text_success']          = 'You have successfully added the products from order ID #%s to your cart!';
-$_['text_empty']            = 'You have not made any previous orders!';
-$_['text_error']            = 'The order you requested could not be found!';
+$_['text_comment']          = 'Ordre Kommentarer';
+$_['text_history']          = 'Ordre Historik';
+$_['text_success']          = 'Du har med success tilføjet produkter fra ordre ID #%s til din kurv!';
+$_['text_empty']            = 'Du har ingen tidligere ordrer!';
+$_['text_error']            = 'Oreren du har angivet kunne ikke findes!';
 
 // Column
-$_['column_name']           = 'Product Name';
+$_['column_name']           = 'Produkt Navn';
 $_['column_model']          = 'Model';
-$_['column_quantity']       = 'Quantity';
-$_['column_price']          = 'Price';
+$_['column_quantity']       = 'Antal';
+$_['column_price']          = 'Pris';
 $_['column_total']          = 'Total';
-$_['column_action']         = 'Action';
-$_['column_date_added']     = 'Date Added';
+$_['column_action']         = 'Handling';
+$_['column_date_added']     = 'Dato Tilføjet';
 $_['column_status']         = 'Status';
-$_['column_comment']        = 'Comment';
+$_['column_comment']        = 'Kommentar';
 ?>
