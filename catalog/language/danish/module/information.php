@@ -3,6 +3,6 @@
 $_['heading_title'] = 'Information';
 
 // Text
-$_['text_contact']  = 'Contact Us';
+$_['text_contact']  = 'Kontakt Os';
 $_['text_sitemap']  = 'Site Map';
 ?>

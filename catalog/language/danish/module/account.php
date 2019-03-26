@@ -1,20 +1,20 @@
 <?php
 // Heading 
-$_['heading_title']    = 'Account';
+$_['heading_title']    = 'Konto';
 
 // Text
-$_['text_register']    = 'Register';
-$_['text_login']       = 'Login';
-$_['text_logout']      = 'Logout';
-$_['text_forgotten']   = 'Forgotten Password';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Edit Account';
-$_['text_password']    = 'Password';
-$_['text_address']     = 'Address Books';
-$_['text_wishlist']    = 'Wish List';
-$_['text_order']       = 'Order History';
-$_['text_download']    = 'Downloads';
-$_['text_return']      = 'Returns';
-$_['text_transaction'] = 'Transactions';
-$_['text_newsletter']  = 'Newsletter';
+$_['text_register']    = 'Registrer';
+$_['text_login']       = 'Log Ind';
+$_['text_logout']      = 'Log Ud';
+$_['text_forgotten']   = 'Glemt Adgangskode';
+$_['text_account']     = 'Min Konto';
+$_['text_edit']        = 'Redigér Konto';
+$_['text_password']    = 'Adgangskode';
+$_['text_address']     = 'Adresse Bog';
+$_['text_wishlist']    = 'Ønskeliste';
+$_['text_order']       = 'Ordre Historik';
+$_['text_download']    = 'Download';
+$_['text_return']      = 'Returneringer';
+$_['text_transaction'] = 'Overførsler';
+$_['text_newsletter']  = 'Nyhedsbrev';
 ?>

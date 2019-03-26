@@ -1,16 +1,16 @@
 <?php
 // Heading 
-$_['heading_title']    = 'Affiliate';
+$_['heading_title']    = 'Affiliat';
 
 // Text
-$_['text_register']    = 'Register';
-$_['text_login']       = 'Login';
-$_['text_logout']      = 'Logout';
-$_['text_forgotten']   = 'Forgotten Password';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Edit Account';
-$_['text_password']    = 'Password';
-$_['text_payment']     = 'Payment Options';
-$_['text_tracking']    = 'Affiliate Tracking';
-$_['text_transaction'] = 'Transactions';
+$_['text_register']    = 'Registrer';
+$_['text_login']       = 'Log Ind';
+$_['text_logout']      = 'Log Ud';
+$_['text_forgotten']   = 'Glemt Adgangskode';
+$_['text_account']     = 'Min Konto';
+$_['text_edit']        = 'Redigér Konto';
+$_['text_password']    = 'Adgangskode';
+$_['text_payment']     = 'Betalingsmuligheder';
+$_['text_tracking']    = 'Affiliat Sporing';
+$_['text_transaction'] = 'Overførsler';
 ?>
