@@ -1,37 +1,37 @@
 <?php
 // Heading
-$_['heading_title']         = 'Order History';
+$_['heading_title']         = 'Ordre Historik';
 
 // Text
-$_['text_account']          = 'Account';
-$_['text_order']            = 'Order Information';
-$_['text_order_detail']     = 'Order Details';
-$_['text_invoice_no']       = 'Invoice No.:';
-$_['text_order_id']         = 'Order ID:';
-$_['text_date_added']       = 'Date Added:';
-$_['text_shipping_address'] = 'Shipping Address';
-$_['text_shipping_method']  = 'Shipping Method:';
-$_['text_payment_address']  = 'Payment Address';
-$_['text_payment_method']   = 'Payment Method:';
-$_['text_comment']          = 'Order Comments';
-$_['text_history']          = 'Order History';
-$_['text_success']          = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
-$_['text_empty']            = 'You have not made any previous orders!';
-$_['text_error']            = 'The order you requested could not be found!';
+$_['text_account']          = 'Konto';
+$_['text_order']            = 'Ordre Oplysninger';
+$_['text_order_detail']     = 'Ordre Detaljer';
+$_['text_invoice_no']       = 'Faktura Nr.:';
+$_['text_order_id']         = 'Ordre ID:';
+$_['text_date_added']       = 'Dato Tilføjet:';
+$_['text_shipping_address'] = 'Leveringsadresse';
+$_['text_shipping_method']  = 'Leveringsmetode:';
+$_['text_payment_address']  = 'Betalingsadresse';
+$_['text_payment_method']   = 'Betalingsmetode:';
+$_['text_comment']          = 'Ordre Kommentarer';
+$_['text_history']          = 'Ordre Historik';
+$_['text_success']          = 'Success: Du har tilføjet <a href="%s">%s</a> til din <a href="%s">indkøbskurv</a>!';
+$_['text_empty']            = 'Du har ikke lavet nogle ordre endnu!';
+$_['text_error']            = 'Ordren du har forespurgt kunne ikke findes!';
 
 // Column
-$_['column_order_id']       = 'Order ID';
-$_['column_customer']       = 'Customer';
-$_['column_product']        = 'No. of Products';
-$_['column_name']           = 'Product Name';
+$_['column_order_id']       = 'Ordre ID';
+$_['column_customer']       = 'Kunde';
+$_['column_product']        = 'Antal Produkter';
+$_['column_name']           = 'Produkt Navn';
 $_['column_model']          = 'Model';
-$_['column_quantity']       = 'Quantity';
-$_['column_price']          = 'Price';
+$_['column_quantity']       = 'Antal';
+$_['column_price']          = 'Pris';
 $_['column_total']          = 'Total';
-$_['column_action']         = 'Action';
-$_['column_date_added']     = 'Date Added';
+$_['column_action']         = 'Handling';
+$_['column_date_added']     = 'Dato Tilføjet';
 $_['column_status']         = 'Status';
-$_['column_comment']        = 'Comment';
+$_['column_comment']        = 'Kommentar';
 
 // Error
-$_['error_reorder']         = '%s is not currently available to be reordered.';
+$_['error_reorder']         = '%s kan ikke genbestilles på nuværende tidspunkt.';

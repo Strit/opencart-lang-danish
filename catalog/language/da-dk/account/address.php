@@ -1,37 +1,37 @@
 <?php
 // Heading
-$_['heading_title']      = 'Address Book';
+$_['heading_title']      = 'Adressebog';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_address_book']  = 'Address Book Entries';
-$_['text_address_add']   = 'Add Address';
-$_['text_address_edit']  = 'Edit Address';
-$_['text_add']           = 'Your address has been successfully added';
-$_['text_edit']          = 'Your address has been successfully updated';
-$_['text_delete']        = 'Your address has been successfully deleted';
-$_['text_empty']         = 'You have no addresses in your account.';
+$_['text_account']       = 'Konto';
+$_['text_address_book']  = 'Adressebog';
+$_['text_address_add']   = 'Tilføj Adresse';
+$_['text_address_edit']  = 'Redigér Adresse';
+$_['text_add']           = 'Din adresse er blevet tilføjet';
+$_['text_edit']          = 'Din adresse er blevet opdateret';
+$_['text_delete']        = 'Din adresse er blevet slettet';
+$_['text_empty']         = 'Du har ingen adresse på din konto.';
 
 // Entry
-$_['entry_firstname']    = 'First Name';
-$_['entry_lastname']     = 'Last Name';
-$_['entry_company']      = 'Company';
-$_['entry_address_1']    = 'Address 1';
-$_['entry_address_2']    = 'Address 2';
-$_['entry_postcode']     = 'Post Code';
-$_['entry_city']         = 'City';
-$_['entry_country']      = 'Country';
-$_['entry_zone']         = 'Region / State';
-$_['entry_default']      = 'Default Address';
+$_['entry_firstname']    = 'Fornavn';
+$_['entry_lastname']     = 'Efternavn';
+$_['entry_company']      = 'Firma';
+$_['entry_address_1']    = 'Adresse 1';
+$_['entry_address_2']    = 'Adresse 2';
+$_['entry_postcode']     = 'Postnummer';
+$_['entry_city']         = 'By';
+$_['entry_country']      = 'Land';
+$_['entry_zone']         = 'Region / Stat';
+$_['entry_default']      = 'Standard Adresse';
 
 // Error
-$_['error_delete']       = 'Warning: You must have at least one address!';
-$_['error_default']      = 'Warning: You can not delete your default address!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_address_1']    = 'Address must be between 3 and 128 characters!';
-$_['error_postcode']     = 'Postcode must be between 2 and 10 characters!';
-$_['error_city']         = 'City must be between 2 and 128 characters!';
-$_['error_country']      = 'Please select a country!';
-$_['error_zone']         = 'Please select a region / state!';
-$_['error_custom_field'] = '%s required!';
+$_['error_delete']       = 'Advarsel: Du skal have mindst én adresse!';
+$_['error_default']      = 'Advarsel: Du kan ikke slette din standard adresse!';
+$_['error_firstname']    = 'Fornavn skal være mellem 1 og 32 tegn!';
+$_['error_lastname']     = 'Efternavn skal være mellem 1 og 32 tegn!';
+$_['error_address_1']    = 'Adresse skal være mellem 3 og 128 tegn!';
+$_['error_postcode']     = 'Postnummer skal være mellem 2 og 10 tegn!';
+$_['error_city']         = 'By skal være mellem 2 og 128 tegn!';
+$_['error_country']      = 'Vælg venligst et land!';
+$_['error_zone']         = 'Vælg venligst en region / stat!';
+$_['error_custom_field'] = '%s påkrævet!';

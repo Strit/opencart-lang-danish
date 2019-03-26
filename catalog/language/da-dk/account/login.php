@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']                = 'Account Login';
+$_['heading_title']                = 'Konto Log Ind';
 
 // Text
-$_['text_account']                 = 'Account';
-$_['text_login']                   = 'Login';
-$_['text_new_customer']            = 'New Customer';
-$_['text_register']                = 'Register Account';
-$_['text_register_account']        = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
-$_['text_returning_customer']      = 'Returning Customer';
-$_['text_i_am_returning_customer'] = 'I am a returning customer';
-$_['text_forgotten']               = 'Forgotten Password';
+$_['text_account']                 = 'Konto';
+$_['text_login']                   = 'Log Ind';
+$_['text_new_customer']            = 'Ny Kunde';
+$_['text_register']                = 'Registrér Konto';
+$_['text_register_account']        = 'Ved at lave en konto vil du k unne handle hurtigere, være opdateret på ordrer status, og holde styr på dine tidligere ordrer.';
+$_['text_returning_customer']      = 'Eksisterende Kunde';
+$_['text_i_am_returning_customer'] = 'Jeg er en eksisterende kunde';
+$_['text_forgotten']               = 'Glemt Adgangskode';
 
 // Entry
-$_['entry_email']                  = 'E-Mail Address';
-$_['entry_password']               = 'Password';
+$_['entry_email']                  = 'Email Adresse';
+$_['entry_password']               = 'Adgangskode';
 
 // Error
-$_['error_login']                  = 'Warning: No match for E-Mail Address and/or Password.';
-$_['error_attempts']               = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
-$_['error_approved']               = 'Warning: Your account requires approval before you can login.';
+$_['error_login']                  = 'Advarsel: Email adresse og/eller adgangskode ikke genkendt.';
+$_['error_attempts']               = 'Advarsel: Din konto har overskredet antallet af log ind forsøg. Prøv venligst igen om 1 time.';
+$_['error_approved']               = 'Advarsel: Din konto kræver godkendelse før du kan logge ind.';
