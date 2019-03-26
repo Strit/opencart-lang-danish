@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']     = 'Tax Report';
+$_['heading_title']     = 'Moms Rapport';
 
 // Text
-$_['text_year']         = 'Years';
-$_['text_month']        = 'Months';
-$_['text_week']         = 'Weeks';
-$_['text_day']          = 'Days';
-$_['text_all_status']   = 'All Statuses';
+$_['text_year']         = 'År';
+$_['text_month']        = 'Måneder';
+$_['text_week']         = 'Uger';
+$_['text_day']          = 'Dage';
+$_['text_all_status']   = 'Alle Status';
 
 // Column
-$_['column_date_start'] = 'Date Start';
-$_['column_date_end']   = 'Date End';
-$_['column_title']      = 'Tax Title';
-$_['column_orders']     = 'No. Orders';
+$_['column_date_start'] = 'Start Dato';
+$_['column_date_end']   = 'Slut Dato';
+$_['column_title']      = 'Moms Titel';
+$_['column_orders']     = 'Nr. Ordrer';
 $_['column_total']      = 'Total';
 
 // Entry
-$_['entry_date_start']  = 'Date Start:';
-$_['entry_date_end']    = 'Date End:';
-$_['entry_group']       = 'Group By:';
-$_['entry_status']      = 'Order Status:';
+$_['entry_date_start']  = 'Start Dato:';
+$_['entry_date_end']    = 'Slut Dato:';
+$_['entry_group']       = 'Gruppér Efter:';
+$_['entry_status']      = 'Ordre Status:';
 ?>

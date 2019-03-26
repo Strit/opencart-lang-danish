@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title']  = 'Products Viewed Report';
+$_['heading_title']  = 'Sete Produkter Rapport';
 
 // Text
-$_['text_success']   = 'Success: You have reset the product viewed report!';
+$_['text_success']   = 'Success: Du har nulstillet sete produkter rapporten!';
 
 // Column
-$_['column_name']    = 'Product Name';
+$_['column_name']    = 'Produkt Navn';
 $_['column_model']   = 'Model';
-$_['column_viewed']  = 'Viewed';
-$_['column_percent'] = 'Percent';
+$_['column_viewed']  = 'Set';
+$_['column_percent'] = 'Procent';
 ?>

@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']      = 'Free Checkout';
+$_['heading_title']      = 'Gratis Check Ud';
 
 // Text
-$_['text_payment']       = 'Payment';
-$_['text_success']       = 'Success: You have modified Free Checkout payment module!';
+$_['text_payment']       = 'Betaling';
+$_['text_success']       = 'Success: Du har ændret Gratis Check Ud betalingsmodulet!';
 
 // Entry
-$_['entry_order_status'] = 'Order Status:';
+$_['entry_order_status'] = 'Ordre Status:';
 $_['entry_status']       = 'Status:';
-$_['entry_sort_order']   = 'Sort Order:';
+$_['entry_sort_order']   = 'Sortèr Ordre:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment Free Checkout!';
+$_['error_permission']   = 'Advarsel: Du har ikke rettigheder til at ændre betalingsmodul Gratis Check Ud!';
 ?>

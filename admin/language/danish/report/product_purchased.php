@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title']     = 'Products Purchased Report';
+$_['heading_title']     = 'Købte Produkter Rapport';
 
 // Text
-$_['text_all_status']   = 'All Statuses';
+$_['text_all_status']   = 'Alle Status';
 
 // Column
-$_['column_date_start'] = 'Date Start';
-$_['column_date_end']   = 'Date End';
-$_['column_name']       = 'Product Name';
+$_['column_date_start'] = 'Start Dato';
+$_['column_date_end']   = 'Slut Dato';
+$_['column_name']       = 'Produkt Navn';
 $_['column_model']      = 'Model';
-$_['column_quantity']   = 'Quantity';
+$_['column_quantity']   = 'Antal';
 $_['column_total']      = 'Total';
 
 // Entry
-$_['entry_date_start']  = 'Date Start:';
-$_['entry_date_end']    = 'Date End:';
-$_['entry_status']      = 'Order Status:';
+$_['entry_date_start']  = 'Start Dato:';
+$_['entry_date_end']    = 'Slut Dato:';
+$_['entry_status']      = 'Ordre Status:';
 ?>
