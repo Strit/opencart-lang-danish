@@ -1,7 +1,7 @@
 <?php
 // Heading
-$_['heading_title'] = 'The page you requested cannot be found!';
+$_['heading_title'] = 'Siden du søgte kunne ikke findes!';
 
 // Text
-$_['text_error']    = 'The page you requested cannot be found.';
+$_['text_error']    = 'Siden du søgte kunne ikke findes.';
 ?>

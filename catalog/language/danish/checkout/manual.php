@@ -1,29 +1,29 @@
 <?php
 // Text
-$_['text_for']          = '%s Gift Certificate for %s';
-$_['text_success']      = 'Order totals has been successfully re-calculated!';
+$_['text_for']          = '%s Gavekort for %s';
+$_['text_success']      = 'Ordre totaler er blevet genberegnet!';
 
 // Error
-$_['error_warning']     = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']  = 'You do not have permission to access this page, please refer to your system administrator.';
-$_['error_customer']    = 'Warning: Can not find selected customer!';
-$_['error_email']       = 'E-Mail Address does not appear to be valid!';
-$_['error_postcode']    = 'Postcode must be between 2 and 10 characters!';
-$_['error_country']     = 'Please select a country!';
-$_['error_zone']        = 'Please select a region / state!';
-$_['error_stock']       = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']     = 'Minimum order amount for %s is %s!';	
-$_['error_required']    = '%s required!';
-$_['error_shipping']    = 'Warning: Shipping method required!';
-$_['error_no_shipping'] = 'Warning: No Shipping options are available!';
-$_['error_payment']     = 'Warning: Payment method required!';
-$_['error_no_payment']  = 'Warning: No Payment options are available!';
-$_['error_coupon']      = 'Warning: Coupon is either invalid, expired or reached it\'s usage limit!';
-$_['error_voucher']     = 'Warning: Gift Voucher is either invalid or the balance has been used up!';
-$_['error_reward']      = 'Warning: Please enter the amount of reward points to use!';	
-$_['error_points']      = 'Warning: You don\'t have %s reward points!';
-$_['error_maximum']     = 'Warning: The maximum number of points that can be applied is %s!';
-$_['error_to_name']     = 'Recipient\'s Name must be between 1 and 64 characters!';
-$_['error_from_name']   = 'Your Name must be between 1 and 64 characters!';
-$_['error_amount']      = 'Amount must be between %s and %s!';
+$_['error_warning']     = 'Advarsel: Venligst tjek formularen for fejl!';
+$_['error_permission']  = 'Du har ikke adgang til at se denne side, venligst kontakt system administratoren.';
+$_['error_customer']    = 'Advarsel: Kan ikke finde den valgte kunde!';
+$_['error_email']       = 'Email adressen ser ikke ud til at værre gyldig!';
+$_['error_postcode']    = 'Postnummer skal være mellem 2 og 10 tegn!';
+$_['error_country']     = 'Vælg venligst et land!';
+$_['error_zone']        = 'Vælg venligst en region / stat!';
+$_['error_stock']       = 'Produkter markeret med *** er ikke tilgængelige i det ønskede antal eller er ikke på lager!';
+$_['error_minimum']     = 'Minimum ordre antal for %s er %s!';	
+$_['error_required']    = '%s påkrævet!';
+$_['error_shipping']    = 'Advarsel: Leveringsmetode påkrævet!';
+$_['error_no_shipping'] = 'Advarsel: Ingen leveringsmuligheder er tilgængelige!';
+$_['error_payment']     = 'Advarsel: betalingsmetode påkrævet!';
+$_['error_no_payment']  = 'Advarsel: Ingen betalingsmuligheder er tilgængelige!';
+$_['error_coupon']      = 'Advarsel: Rabat koden er ikke gyldig, er udløbet eller er brugt op!';
+$_['error_voucher']     = 'Advarsel: Gavekort er ikke gyldig eller beløbet er brugt!';
+$_['error_reward']      = 'Advarsel: Indtast venligst antal gevinst point der skal bruges!';	
+$_['error_points']      = 'Advarsel: Du har ikke %s gevinst point!';
+$_['error_maximum']     = 'Advarsel: Det maksimale antal point der kan angives er %s!';
+$_['error_to_name']     = 'Modtagers Navn skal være mellem 1 og 64 tegn!';
+$_['error_from_name']   = 'Dit Navn skal være mellem 1 og 64 tegn!';
+$_['error_amount']      = 'Beløbet skal være mellem %s og %s!';
 ?>

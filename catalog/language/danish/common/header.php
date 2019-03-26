@@ -1,11 +1,11 @@
 <?php
 // Text
-$_['text_home']           = 'Home';
-$_['text_wishlist']       = 'Wish List (%s)';
-$_['text_shopping_cart']  = 'Shopping Cart';
-$_['text_search']         = 'Search';
-$_['text_welcome']        = 'Welcome visitor you can <a href="%s">login</a> or <a href="%s">create an account</a>.';
-$_['text_logged']         = 'You are logged in as <a href="%s">%s</a> <b>(</b> <a href="%s">Logout</a> <b>)</b>';
-$_['text_account']        = 'My Account';
-$_['text_checkout']       = 'Checkout';
+$_['text_home']           = 'Hjem';
+$_['text_wishlist']       = 'Ønskeliste (%s)';
+$_['text_shopping_cart']  = 'Indkøbskurv';
+$_['text_search']         = 'Søg';
+$_['text_welcome']        = 'Velkommen. Du kan <a href="%s">logge ind</a> eller <a href="%s">oprette en konto</a>.';
+$_['text_logged']         = 'Du er logged ind som <a href="%s">%s</a> <b>(</b> <a href="%s">Log Ud</a> <b>)</b>';
+$_['text_account']        = 'Min Konto';
+$_['text_checkout']       = 'Check Ud';
 ?>
