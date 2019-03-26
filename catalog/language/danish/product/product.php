@@ -1,52 +1,52 @@
 <?php
 // Text
-$_['text_search']       = 'Search';
-$_['text_brand']        = 'Brand';
-$_['text_manufacturer'] = 'Brand:';
-$_['text_model']        = 'Product Code:';
-$_['text_reward']       = 'Reward Points:'; 
-$_['text_points']       = 'Price in reward points:';
-$_['text_stock']        = 'Availability:';
-$_['text_instock']      = 'In Stock';
-$_['text_price']        = 'Price:'; 
-$_['text_tax']          = 'Ex Tax:'; 
-$_['text_discount']     = '%s or more %s';
-$_['text_option']       = 'Available Options';
-$_['text_qty']          = 'Qty:';
-$_['text_minimum']      = 'This product has a minimum quantity of %s';
-$_['text_or']           = '- OR -';
-$_['text_reviews']      = '%s reviews'; 
-$_['text_write']        = 'Write a review';
-$_['text_no_reviews']   = 'There are no reviews for this product.';
-$_['text_on']           = ' on ';
-$_['text_note']         = '<span style="color: #FF0000;">Note:</span> HTML is not translated!';
-$_['text_share']        = 'Share';
-$_['text_success']      = 'Thank you for your review. It has been submitted to the webmaster for approval.';
-$_['text_upload']       = 'Your file was successfully uploaded!';
-$_['text_wait']         = 'Please Wait!';
+$_['text_search']       = 'Søg';
+$_['text_brand']        = 'Fabrikant';
+$_['text_manufacturer'] = 'Fabrikant:';
+$_['text_model']        = 'Produkt Kode:';
+$_['text_reward']       = 'Gevinst Point:'; 
+$_['text_points']       = 'Pris i gevinst point:';
+$_['text_stock']        = 'Tilgængelighed:';
+$_['text_instock']      = 'På Lager';
+$_['text_price']        = 'Pris:'; 
+$_['text_tax']          = 'Excl. Moms:'; 
+$_['text_discount']     = '%s eller mere %s';
+$_['text_option']       = 'Tilgængelige Muligheder';
+$_['text_qty']          = 'Antal:';
+$_['text_minimum']      = 'Dette produkt har et minimal antal på %s';
+$_['text_or']           = '- ELLER -';
+$_['text_reviews']      = '%s anmeldelser'; 
+$_['text_write']        = 'Skriv en anmeldelse';
+$_['text_no_reviews']   = 'Der er ingen anmeldelser af dette produkt.';
+$_['text_on']           = ' på ';
+$_['text_note']         = '<span style="color: #FF0000;">Note:</span> HTML er ikke oversat!';
+$_['text_share']        = 'Del';
+$_['text_success']      = 'Tak for din anmeldelse. Den er blevet indsendt til godkendelse hos webmasteren.';
+$_['text_upload']       = 'Din fil er blevet oploadet!';
+$_['text_wait']         = 'Vent Venligst!';
 $_['text_tags']         = 'Tags:';
-$_['text_error']        = 'Product not found!';
+$_['text_error']        = 'Produkt ikke fundet!';
 
 // Entry
-$_['entry_name']        = 'Your Name:';
-$_['entry_review']      = 'Your Review:';
-$_['entry_rating']      = 'Rating:';
-$_['entry_good']        = 'Good';
-$_['entry_bad']         = 'Bad';
-$_['entry_captcha']     = 'Enter the code in the box below:';
+$_['entry_name']        = 'Dit Navn:';
+$_['entry_review']      = 'Din Anmeldelse:';
+$_['entry_rating']      = 'Bedømmelse:';
+$_['entry_good']        = 'God';
+$_['entry_bad']         = 'Dårlig';
+$_['entry_captcha']     = 'Skriv koden i boksen herunder:';
 
 // Tabs
-$_['tab_description']   = 'Description';
-$_['tab_attribute']     = 'Specification';
-$_['tab_review']        = 'Reviews (%s)';
-$_['tab_related']       = 'Related Products'; 
+$_['tab_description']   = 'Beskrivelse';
+$_['tab_attribute']     = 'Specifikationer';
+$_['tab_review']        = 'Anmeldelser (%s)';
+$_['tab_related']       = 'Relaterede Produkter'; 
 
 // Error
-$_['error_name']        = 'Warning: Review Name must be between 3 and 25 characters!';
-$_['error_text']        = 'Warning: Review Text must be between 25 and 1000 characters!';
-$_['error_rating']      = 'Warning: Please select a review rating!';
-$_['error_captcha']     = 'Warning: Verification code does not match the image!';
-$_['error_upload']      = 'Upload required!';
-$_['error_filename']    = 'Filename must be between 3 and 64 characters!';
-$_['error_filetype']    = 'Invalid file type!';
+$_['error_name']        = 'Advarsel: En anmeldelsestitel skal være på mellem 3 og 25 tegn!';
+$_['error_text']        = 'Advarsel: En anmeldesestekst skal være på mellem 25 og 1000 tegn!';
+$_['error_rating']      = 'Advarsel: Vælg venligst en anmeldelsesbedømmelse!';
+$_['error_captcha']     = 'Advarsel: Verificeringskode stemmer ikke med billedet!';
+$_['error_upload']      = 'Upload påkrævet!';
+$_['error_filename']    = 'Filnavn skal være på mellem 3 og 64 tegn!';
+$_['error_filetype']    = 'Ugyldig filtype!';
 ?>

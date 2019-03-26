@@ -1,5 +1,5 @@
 <?php
 // Text
-$_['text_reward']   = 'Reward Points(%s)';
-$_['text_order_id'] = 'Order ID: #%s';
+$_['text_reward']   = 'Gevinst Point(%s)';
+$_['text_order_id'] = 'Ordre ID: #%s';
 ?>
