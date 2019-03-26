@@ -1,9 +1,9 @@
 <?php
 // Heading 
-$_['heading_title'] = 'Account Logout';
+$_['heading_title'] = 'Konto Log Ud';
 
 // Text
-$_['text_message']  = '<p>You have been logged off your Affiliate Account.</p>';
-$_['text_account']  = 'Account';
-$_['text_logout']   = 'Logout';
+$_['text_message']  = '<p>Du er nu logget ud af din Affilial Konto.</p>';
+$_['text_account']  = 'Konto';
+$_['text_logout']   = 'Log ud';
 ?>

@@ -52,12 +52,12 @@ $_['button_reward']         = 'tilføj Points';
 $_['button_quote']          = 'Få Quote';
 
 // Error
-$_['error_upload_1']        = 'Warning: The uploaded file exceeds the upload_max_filesize directive in php.ini!';
-$_['error_upload_2']        = 'Warning: The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form!';
-$_['error_upload_3']        = 'Warning: The uploaded file was only partially uploaded!';
-$_['error_upload_4']        = 'Warning: No file was uploaded!';
-$_['error_upload_6']        = 'Warning: Missing a temporary folder!';
-$_['error_upload_7']        = 'Warning: Failed to write file to disk!';
-$_['error_upload_8']        = 'Warning: File upload stopped by extension!';
-$_['error_upload_999']      = 'Warning: No error code available!';
+$_['error_upload_1']                = 'Advarsel: Den uploadede fil overskrider grænsen for upload_max_filesize i php.ini!';
+$_['error_upload_2']                = 'Advarsel: Den uploadede fil overskrider grænsen for MAX_FILE_SIZE direktivet der er specificeret i HTML formularen!';
+$_['error_upload_3']                = 'Advarsel: Den uploadede fil blev kun delvist uploaded!';
+$_['error_upload_4']                = 'Advarsel: Ingen fil blev uploadet!';
+$_['error_upload_6']                = 'Advarsel: Der mangler en midlertidig mappe!';
+$_['error_upload_7']                = 'Advarsel: Der kunne ikke skrives til disken!';
+$_['error_upload_8']                = 'Advarsel: Fil upload blev stoppet af en udvidelse!';
+$_['error_upload_999']              = 'Advarsel: Der er ingen filkode tilgængelig!';
 ?>

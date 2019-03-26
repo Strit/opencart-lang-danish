@@ -1,56 +1,56 @@
 <?php
 // Heading  
-$_['heading_title']          = 'Shopping Cart';
+$_['heading_title']          = 'Indkøbskurv';
 
 // Text
-$_['text_success']           = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
-$_['text_remove']            = 'Success: You have modified your shopping cart!';
-$_['text_coupon']            = 'Success: Your coupon discount has been applied!';
-$_['text_voucher']           = 'Success: Your gift voucher discount has been applied!';
-$_['text_reward']            = 'Success: Your reward points discount has been applied!';
-$_['text_shipping']          = 'Success: Your shipping estimate has been applied!';
-$_['text_login']             = 'Attention: You must <a href="%s">login</a> or <a href="%s">create an account</a> to view prices!';
-$_['text_points']            = 'Reward Points: %s';
-$_['text_items']             = '%s item(s) - %s';
-$_['text_next']              = 'What would you like to do next?';
-$_['text_next_choice']       = 'Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.';
-$_['text_use_coupon']        = 'Use Coupon Code';
-$_['text_use_voucher']       = 'Use Gift Voucher';
-$_['text_use_reward']        = 'Use Reward Points (Available %s)';
-$_['text_shipping_estimate'] = 'Estimate Shipping &amp; Taxes';
-$_['text_shipping_detail']   = 'Enter your destination to get a shipping estimate.';
-$_['text_shipping_method']   = 'Please select the preferred shipping method to use on this order.';
-$_['text_empty']             = 'Your shopping cart is empty!';
+$_['text_success']           = 'Success: Du har tilføjjet <a href="%s">%s</a> til din <a href="%s">indkøbskurv</a>!';
+$_['text_remove']            = 'Success: Du har ændret din indkøbskurv!';
+$_['text_coupon']            = 'Success: Din rabat kupon er angivet!';
+$_['text_voucher']           = 'Success: Dit gavekort er angivet!';
+$_['text_reward']            = 'Success: Dine gevinst point er angivet!';
+$_['text_shipping']          = 'Success: Dine leveringsomkostninger er angivet!';
+$_['text_login']             = 'Bemærk: Du skal <a href="%s">logge ind</a> eller <a href="%s">lave en konto</a> for at se priser!';
+$_['text_points']            = 'Gevinst Point: %s';
+$_['text_items']             = '%s enhed(er) - %s';
+$_['text_next']              = 'Hvad vil du så?';
+$_['text_next_choice']       = 'Vælg hvis du har en rabat kode eller gevinst point du vil bruge eller vil have udregnet dine leveringsomkostninger.';
+$_['text_use_coupon']        = 'Brug Rabat Kode';
+$_['text_use_voucher']       = 'Brug Gavekort';
+$_['text_use_reward']        = 'Brug Gevinst Point (Tilgængelig %s)';
+$_['text_shipping_estimate'] = 'Udregn Fragt og Skatter';
+$_['text_shipping_detail']   = 'Skriv din destination for at få udregnignet fragt.';
+$_['text_shipping_method']   = 'Venligst vælg din fortrukne leveringsmetode til denne ordre.';
+$_['text_empty']             = 'Din indkøbskurv er tom!';
 
 // Column
-$_['column_image']           = 'Image';
-$_['column_name']            = 'Product Name';
+$_['column_image']           = 'Billede';
+$_['column_name']            = 'Produkt Navn';
 $_['column_model']           = 'Model';
-$_['column_quantity']        = 'Quantity';
-$_['column_price']           = 'Unit Price';
+$_['column_quantity']        = 'Antal';
+$_['column_price']           = 'Enhed Pris';
 $_['column_total']           = 'Total';
 
 // Entry
-$_['entry_coupon']           = 'Enter your coupon here:';
-$_['entry_voucher']          = 'Enter your gift voucher code here:';
-$_['entry_reward']           = 'Points to use (Max %s):';
-$_['entry_country']          = 'Country:';
-$_['entry_zone']             = 'Region / State:';
-$_['entry_postcode']         = 'Post Code:';
+$_['entry_coupon']           = 'Skriv din rabat kode her:';
+$_['entry_voucher']          = 'Skrive din gavekort kode her:';
+$_['entry_reward']           = 'Gevinst Point der skal bruges (Max %s):';
+$_['entry_country']          = 'Land:';
+$_['entry_zone']             = 'Region / Stat:';
+$_['entry_postcode']         = 'Postnummer:';
 
 // Error
-$_['error_stock']            = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']          = 'Minimum order amount for %s is %s!';	
-$_['error_required']         = '%s required!';	
-$_['error_product']          = 'Warning: There are no products in your cart!';	
-$_['error_coupon']           = 'Warning: Coupon is either invalid, expired or reached it\'s usage limit!';
-$_['error_voucher']          = 'Warning: Gift Voucher is either invalid or the balance has been used up!';
-$_['error_reward']           = 'Warning: Please enter the amount of reward points to use!';	
-$_['error_points']           = 'Warning: You don\'t have %s reward points!';
-$_['error_maximum']          = 'Warning: The maximum number of points that can be applied is %s!';
-$_['error_postcode']         = 'Postcode must be between 2 and 10 characters!';
-$_['error_country']          = 'Please select a country!';
-$_['error_zone']             = 'Please select a region / state!';
-$_['error_shipping']         = 'Warning: Shipping method required!';
-$_['error_no_shipping']      = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_stock']            = 'Produkter markeret med *** er ikke tilgængelig i det ønskede antal eller er ikke på lager!';
+$_['error_minimum']          = 'Minimum antal for %s er %s!';	
+$_['error_required']         = '%s påkrævet!';	
+$_['error_product']          = 'Advarsel: Der er ingen produkter i din kurv!';	
+$_['error_coupon']           = 'Advarsel: Rabat koden er ikke gyldig, udløbet eller har overskredet antal brug!';
+$_['error_voucher']          = 'Advarsel: Gavekort er ikke gyldig eller summen er allerede  brugt!';
+$_['error_reward']           = 'Advarsel: Skriv venligst antal gevinst point der skal bruges!';	
+$_['error_points']           = 'Advarsel: Du har ikke %s gevinst point!';
+$_['error_maximum']          = 'Advarsel: Det maksimale antal point der kan angives er %s!';
+$_['error_postcode']         = 'Postnummer skal være mellem 2 og 10 tegn!';
+$_['error_country']          = 'Vælg venligst et land!';
+$_['error_zone']             = 'Vælg venligst en region / stat!';
+$_['error_shipping']         = 'Advarsel: Leveringsmetode påkrævet!';
+$_['error_no_shipping']      = 'Advarsel: Ingen leveringsmetoder er tilgængelige. <a href="%s">Kontact os</a> for hjælp!';
 ?>
