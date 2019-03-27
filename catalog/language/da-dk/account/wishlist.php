@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title'] = 'My Wish List';
+$_['heading_title'] = 'Min Ønskeliste';
 
 // Text
-$_['text_account']  = 'Account';
-$_['text_instock']  = 'In Stock';
-$_['text_wishlist'] = 'Wish List (%s)';
-$_['text_login']    = 'You must <a href="%s">login</a> or <a href="%s">create an account</a> to save <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
-$_['text_success']  = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
-$_['text_remove']   = 'Success: You have modified your wish list!';
-$_['text_empty']    = 'Your wish list is empty.';
+$_['text_account']  = 'Konto';
+$_['text_instock']  = 'På Lager';
+$_['text_wishlist'] = 'Ønskeliste (%s)';
+$_['text_login']    = 'Du skal <a href="%s">logge ind</a> eller <a href="%s">oprette en konto</a> for at gemme <a href="%s">%s</a> til din <a href="%s">ønskeliste</a>!';
+$_['text_success']  = 'Success: Du har tilføjet <a href="%s">%s</a> til din <a href="%s">ønskeliste</a>!';
+$_['text_remove']   = 'Success: Du har ændret din ønskeliste!';
+$_['text_empty']    = 'Din ønskeliste er tom.';
 
 // Column
-$_['column_image']  = 'Image';
-$_['column_name']   = 'Product Name';
+$_['column_image']  = 'Billede';
+$_['column_name']   = 'Produkt Navn';
 $_['column_model']  = 'Model';
-$_['column_stock']  = 'Stock';
-$_['column_price']  = 'Unit Price';
-$_['column_action'] = 'Action';
+$_['column_stock']  = 'Lager';
+$_['column_price']  = 'Enhedspris';
+$_['column_action'] = 'Handling';
