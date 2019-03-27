@@ -1,12 +1,12 @@
 <?php
 // Text
-$_['text_success']       = 'You have successfully modified customers';
+$_['text_success']       = 'Du har ændret kunder';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to access the API!';
-$_['error_customer']     = 'You must select a customer!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']        = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
-$_['error_custom_field'] = '%s required!';
+$_['error_permission']   = 'Advarsel: Du har ikke rettigheder til at tilgå denne API!';
+$_['error_customer']     = 'Du skal første vælge en kunde!';
+$_['error_firstname']    = 'Fornavn skal være mellem 1 og 32 tegn!';
+$_['error_lastname']     = 'Efternavn skal være mellem 1 og 32 tegn!';
+$_['error_email']        = 'Email adresse ser ikke ud til at være gyldig!';
+$_['error_telephone']    = 'Telefonnummer skal være mellem 3 og 32 tegn!';
+$_['error_custom_field'] = '%s påkrævet!';

@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_success'] = 'Success: API session successfully started!';
+$_['text_success'] = 'Success: API session er startet!';
 
 // Error
-$_['error_key']    = 'Warning: Incorrect API Key!';
-$_['error_ip']     = 'Warning: Your IP %s is not allowed to access this API!';
+$_['error_key']    = 'Advarsel: Forkert API nøgle!';
+$_['error_ip']     = 'Advarsel: Din IP %s har ikke adgnag til denne API!';

@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_success']     = 'Success: Your coupon discount has been applied!';
+$_['text_success']     = 'Success: Din rabat kupon er angivet!';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to access the API!';
-$_['error_coupon']     = 'Warning: Coupon is either invalid, expired or reached it\'s usage limit!';
+$_['error_permission'] = 'Advarsel: Du har ikke rettigheder til at tilgå denne API!';
+$_['error_coupon']     = 'Advarsel: Kupon er enten ugyldig, udløbet eller overskredet brugsgrænsen!';

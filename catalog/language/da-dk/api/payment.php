@@ -1,18 +1,18 @@
 <?php
 // Text
-$_['text_address']       = 'Success: Payment address has been set!';
-$_['text_method']        = 'Success: Payment method has been set!';
+$_['text_address']       = 'Success: Betalingsadresse er sat!';
+$_['text_method']        = 'Success: Betalingsmetode er sat!';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to access the API!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_address_1']    = 'Address 1 must be between 3 and 128 characters!';
-$_['error_city']         = 'City must be between 3 and 128 characters!';
-$_['error_postcode']     = 'Postcode must be between 2 and 10 characters for this country!';
-$_['error_country']      = 'Please select a country!';
-$_['error_zone']         = 'Please select a region / state!';
-$_['error_custom_field'] = '%s required!';
-$_['error_address']      = 'Warning: Payment address required!';
-$_['error_method']       = 'Warning: Payment method required!';
-$_['error_no_payment']   = 'Warning: No Payment options are available!';
+$_['error_permission']   = 'Advarsel: Du har ikke rettigheder til at tilgå denne API!';
+$_['error_firstname']    = 'Fornavn skal være mellem 1 og 32 tegn!';
+$_['error_lastname']     = 'Efternavn skal være mellem 1 og 32 tegn!';
+$_['error_address_1']    = 'Adresse 1 skal være mellem3 og 128 tegn!';
+$_['error_city']         = 'By skal være mellem 3 og 128 tegn!';
+$_['error_postcode']     = 'Postnummer skal være mellem 2 og 10 tegn for dette land!';
+$_['error_country']      = 'Vælg venligst et land!';
+$_['error_zone']         = 'Vælg venligst en region / stat!';
+$_['error_custom_field'] = '%s påkrævet!';
+$_['error_address']      = 'Advarsel: Betalingsadresse påkrævet!';
+$_['error_method']       = 'Advarsel: Betalingsmetode påkrævet!';
+$_['error_no_payment']   = 'Advarsel: Ingen betalingsmuligheder er tilgængelige!';
