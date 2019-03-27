@@ -1,26 +1,26 @@
 <?php
 // Heading
-$_['heading_title']		= 'Search';
+$_['heading_title']		= 'Søg';
 $_['heading_tag']		= 'Tag - ';
 
 // Text
-$_['text_search']		= 'Posts meeting the search criteria';
-$_['text_searched']		= 'You searched for';
-$_['text_refine']		= 'Refine category';
-$_['text_keyword']		= 'Keywords';
-$_['text_category']		= 'All categories';
-$_['text_sub_category']	= 'Search in subcategories';
-$_['text_empty']		= 'There are no posts matching the search criteria.';
-$_['text_author']		= 'Author';
-$_['text_sort']			= 'Sort By';
-$_['text_default']		= 'Default';
-$_['text_name_asc']		= 'Name (A - Z)';
-$_['text_name_desc']	= 'Name (Z - A)';
-$_['text_limit']		= 'Show';
-$_['text_read_more']	= 'Read more';
-$_['text_author']		= 'Author';
-$_['text_published']	= 'Date published';
+$_['text_search']		= 'Indlæg der passer til søgningen';
+$_['text_searched']		= 'Du søgte efter';
+$_['text_refine']		= 'Udvidet kategori';
+$_['text_keyword']		= 'Nøgleord';
+$_['text_category']		= 'Alle kategorier';
+$_['text_sub_category']	= 'Søg i alle underkategorier';
+$_['text_empty']		= 'Der er ingen indlæg der passer til din søgning.';
+$_['text_author']		= 'Forfatter';
+$_['text_sort']			= 'Sortér Efter';
+$_['text_default']		= 'Standard';
+$_['text_name_asc']		= 'Navn (A - Å)';
+$_['text_name_desc']	= 'Navn (Å - A)';
+$_['text_limit']		= 'Vis';
+$_['text_read_more']	= 'Læs mere';
+$_['text_author']		= 'Forfatter';
+$_['text_published']	= 'Udgivelsesdato';
 
 // Entry
-$_['entry_search']		= 'Search Criteria';
-$_['entry_description']	= 'Search in post descriptions';
+$_['entry_search']		= 'Søgekriterier';
+$_['entry_description']	= 'Søg i indlægsbeskrivelser';

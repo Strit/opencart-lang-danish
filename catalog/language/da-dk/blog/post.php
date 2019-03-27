@@ -1,51 +1,51 @@
 <?php
 // Text
 $_['text_blog']						= 'Blog';
-$_['text_success']					= 'Thank you for your comment. He was sent for moderation.';
-$_['text_error']					= 'Page not found!';
-$_['text_author']					= 'Author';
-$_['text_published']				= 'Date published';
-$_['text_url']						= 'Link to publication';
-$_['text_copy']						= 'copy';
-$_['text_no_comments']				= 'This post has no comments.';
-$_['text_write']					= 'Write a comment';
-$_['text_note']						= 'Note: HTML is not translated!';
-$_['text_comment']					= 'What do you think?';
+$_['text_success']					= 'Tak for din kommentar. Den er sendt til moderation.';
+$_['text_error']					= 'Side ikke fundet!';
+$_['text_author']					= 'Forfatter';
+$_['text_published']				= 'Udgivelsesdato';
+$_['text_url']						= 'Link til udgivelsen';
+$_['text_copy']						= 'Kopiér';
+$_['text_no_comments']				= 'Dette indlæg har ingen kommentarer.';
+$_['text_write']					= 'Skriv en kommentar';
+$_['text_note']						= 'Note: HTML er ikke oversat!';
+$_['text_comment']					= 'Hvad synes du?';
 $_['text_tags']						= 'Tags';
-$_['text_email_error']				= 'Wrong e-mail';
-$_['text_email_success']			= 'E-mail Valid';
-$_['text_сlipboard_error']			= 'An error occurred while copying!';
-$_['text_сlipboard_succeess']		= 'Link copied!';
-$_['text_read_more']				= 'Read more';
-$_['text_related']					= 'It can be interesting';
-$_['text_search']					= 'Search';
+$_['text_email_error']				= 'Forkert email';
+$_['text_email_success']			= 'Emailen er gyldig';
+$_['text_сlipboard_error']			= 'Der skete en fejl ved kopiering!';
+$_['text_сlipboard_succeess']		= 'Link kopieret!';
+$_['text_read_more']				= 'Læs mere';
+$_['text_related']					= 'Det kan være interessant';
+$_['text_search']					= 'Søg';
 
 // Button
-$_['button_pswp_close']				= 'Close (Esc)';
-$_['button_pswp_toggle_fullscreen']	= 'Toggle fullscreen';
-$_['button_pswp_zoom']				= 'Zoom in/out';
-$_['button_pswp_prev']				= 'Previous (arrow left)';
-$_['button_pswp_next']				= 'Next (arrow right)';
-$_['button_share']					= 'Share';
+$_['button_pswp_close']				= 'Luk (Esc)';
+$_['button_pswp_toggle_fullscreen']	= 'Fuldskærm';
+$_['button_pswp_zoom']				= 'Zoom ind/ud';
+$_['button_pswp_prev']				= 'Tidligere (venstre pil)';
+$_['button_pswp_next']				= 'Næste (højre pil)';
+$_['button_share']					= 'Del';
 
 // Help
-$_['help_email']					= 'Your email address will not be published!';
+$_['help_email']					= 'Din email adresse vil ikke blive udgivet!';
 
 //Entry
-$_['entry_name']					= 'Your name';
-$_['entry_email']					= 'Your e-mail address';
-$_['entry_comment']					= 'Your comment';
+$_['entry_name']					= 'Dit navn';
+$_['entry_email']					= 'Din email adresse';
+$_['entry_comment']					= 'Din kommentar';
 
 // Error
-$_['error_name']					= 'The name must be between 3 and 25 characters!';
-$_['error_email']					= 'E-Mail is incorrect!';
-$_['error_text']					= 'The comment text must be from 25 to 1000 characters!';
-$_['error_captcha']					= 'Captcha not passed';
+$_['error_name']					= 'Navnet skal være mellem 3 og 25 tegn!';
+$_['error_email']					= 'Email er ikke korrekt!';
+$_['error_text']					= 'Kommentarteksten skal være mellem 25 og 1000 tegn!';
+$_['error_captcha']					= 'Captcta ikke klaret';
 
 // Mail
-$_['text_subject']					= '%s - Post Comment';
-$_['text_waiting']					= 'A new comment on the post is awaited.';
-$_['text_post']						= 'Post: %s';
-$_['text_commentator']				= 'Commentator: %s';
-$_['text_email']					= 'E-mail: %s';
-$_['text_comment']					= 'Comment Text:';
+$_['text_subject']					= '%s - Indlægskommentarer';
+$_['text_waiting']					= 'En ny kommentar til indlægget venter.';
+$_['text_post']						= 'Indlæg: %s';
+$_['text_commentator']				= 'Kommentator: %s';
+$_['text_email']					= 'Email: %s';
+$_['text_comment']					= 'Kommentartekst:';
