@@ -3,20 +3,20 @@
 $_['heading_title']                 = 'Affiliate Program';
 
 // Text
-$_['text_account']                  = 'Account';
-$_['text_login']                    = 'Login';
-$_['text_description']              = '<p>%s affiliate program is free and enables members to earn revenue by placing a link or links on their web site which advertises %s or specific products on it. Any sales made to customers who have clicked on those links will earn the affiliate commission. The standard commission rate is currently %s.</p><p>For more information, visit our FAQ page or see our Affiliate terms &amp; conditions.</p>';
-$_['text_new_affiliate']            = 'New Affiliate';
-$_['text_register_account']         = '<p>I am not currently an affiliate.</p><p>Click Continue below to create a new affiliate account. Please note that this is not connected in any way to your customer account.</p>';
-$_['text_returning_affiliate']      = 'Affiliate Login';
-$_['text_i_am_returning_affiliate'] = 'I am a returning affiliate.';
-$_['text_forgotten']                = 'Forgotten Password';
+$_['text_account']                  = 'Konto';
+$_['text_login']                    = 'Log Ind';
+$_['text_description']              = '<p>%s affiliate program er gratis og giver medlemmer mulighed for at tjeken lidt ved at placere links på deres hjememside som reklamere for %s eller specifikke produkter. Ethvert salg lavet af kunder der har klikket et sådan link vil give affiliate fortjeneste. Standard fortjeneste raten er nu %s.</p><p>For flere oplysninger, besøg vores FAQ side eller se vores Affiliate retningslinjer.</p>';
+$_['text_new_affiliate']            = 'Ny Affiliate';
+$_['text_register_account']         = '<p>Jeg er ikke en nuværende affiliate.</p><p>Klik Fortsæt herunder for at oprette en ny affiliate konto. Bemærk at dette ikke er forbundet til din kunde konto.</p>';
+$_['text_returning_affiliate']      = 'Affiliate Log Ind';
+$_['text_i_am_returning_affiliate'] = 'Jeg er en eksisterende affiliate.';
+$_['text_forgotten']                = 'Glemt Adgangskode';
 
 // Entry
-$_['entry_email']                   = 'Affiliate E-Mail';
-$_['entry_password']                = 'Password';
+$_['entry_email']                   = 'Affiliate Email';
+$_['entry_password']                = 'Adgangskode';
 
 // Error
-$_['error_login']                   = 'Warning: No match for E-Mail Address and/or Password.';
-$_['error_attempts']                = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
-$_['error_approved']                = 'Warning: Your account requires approval before you can login.';
+$_['error_login']                   = 'Advarsel: Email og/eller Adgangskode er ikke fundet i vores system.';
+$_['error_attempts']                = 'Advarsel: Din konto har overtrådt antallet af log ind forsøg. Prøv venligst igen om en time.';
+$_['error_approved']                = 'Advarsel: Din konto kræver godkendelse før du kan logge ind.';

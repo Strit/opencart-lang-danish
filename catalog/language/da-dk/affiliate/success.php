@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title'] = 'Your Affiliate Account Has Been Created!';
+$_['heading_title'] = 'Din Affiliate Konto Er Oprettet!';
 
 // Text
-$_['text_message']  = '<p>Congratulations! Your new account has been successfully created!</p> <p>You are now a member of %s affiliates.</p> <p>If you have ANY questions about the operation of this affiliate system, please e-mail the store owner.</p> <p>A confirmation has been sent to the provided e-mail address. If you have not received it within the hour, please <a href="%s">contact us</a>.</p>';
-$_['text_approval'] = '<p>Thank you for registering for an affiliate account with %s!</p><p>You will be notified by e-mail once your account has been activated by the store owner.</p><p>If you have ANY questions about the operation of this affiliate system, please <a href="%s">contact the store owner</a>.</p>';
-$_['text_account']  = 'Account';
+$_['text_message']  = '<p>Tillykke! Din nye konto er blevet oprettet!</p> <p>Du er nu medlem af %s affiliaterne.</p> <p>Hvis du har nogen spørgsmål omkring driften af affiliate systemet, så send en email til butiksejeren.</p> <p>En bekræftelse er blevet sendt til den givne email adresse. Hvis du ikke har modtaget inden for en time, så <a href="%s">kontakt os</a>.</p>';
+$_['text_approval'] = '<p>Tak fordi du oprettede en affiliate konto hos %s!</p><p>Du vil blive notificeret via email når din konto er blevet aktiveret af butiksejeren.</p><p>Hvis du har nogen spørgsmål til driften af affiliate systemet, så <a href="%s">kontakt butiksejeren</a>.</p>';
+$_['text_account']  = 'Konto';
 $_['text_success']  = 'Success';
