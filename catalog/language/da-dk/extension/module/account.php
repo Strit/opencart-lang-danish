@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Account';
+$_['heading_title']    = 'Konto';
 
 // Text
-$_['text_register']    = 'Register';
-$_['text_login']       = 'Login';
-$_['text_logout']      = 'Logout';
-$_['text_forgotten']   = 'Forgotten Password';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Edit Account';
-$_['text_password']    = 'Password';
-$_['text_address']     = 'Address Book';
-$_['text_wishlist']    = 'Wish List';
-$_['text_order']       = 'Order History';
-$_['text_download']    = 'Downloads';
-$_['text_reward']      = 'Reward Points';
-$_['text_return']      = 'Returns';
-$_['text_transaction'] = 'Transactions';
-$_['text_newsletter']  = 'Newsletter';
-$_['text_recurring']   = 'Recurring payments';
+$_['text_register']    = 'Registrér';
+$_['text_login']       = 'Log Ind';
+$_['text_logout']      = 'Log Ud';
+$_['text_forgotten']   = 'Glemt Adgangskode';
+$_['text_account']     = 'Min Konto';
+$_['text_edit']        = 'Ændre Konto';
+$_['text_password']    = 'Adgangskode';
+$_['text_address']     = 'Adressebog';
+$_['text_wishlist']    = 'Ønskeliste';
+$_['text_order']       = 'Ordre Historik';
+$_['text_download']    = 'Hentninger';
+$_['text_reward']      = 'Point';
+$_['text_return']      = 'Returneringer';
+$_['text_transaction'] = 'Transaktioner';
+$_['text_newsletter']  = 'Nyhedsbrev';
+$_['text_recurring']   = 'Tilbagevendende betalinger';

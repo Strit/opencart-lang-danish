@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title'] = 'Use Gift Certificate';
+$_['heading_title'] = 'Brug Gavekort';
 
 // Text
-$_['text_voucher']  = 'Gift Certificate (%s)';
-$_['text_success']  = 'Success: Your gift certificate discount has been applied!';
+$_['text_voucher']  = 'Gavekort (%s)';
+$_['text_success']  = 'Success: Dit gavekort er blevet angivet!';
 
 // Entry
-$_['entry_voucher'] = 'Enter your gift certificate code here';
+$_['entry_voucher'] = 'Indtast din gavekortskode her';
 
 // Error
-$_['error_voucher'] = 'Warning: Gift Certificate is either invalid or the balance has been used up!';
-$_['error_empty']   = 'Warning: Please enter a gift certificate code!';
+$_['error_voucher'] = 'Advarsel: Gavekortet er enten ikke gyldig eller beløbet er brugt op!';
+$_['error_empty']   = 'Advarsel: Venligst indtast gavekortskoden!';

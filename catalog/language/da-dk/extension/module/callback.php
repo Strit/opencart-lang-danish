@@ -1,16 +1,16 @@
 <?php
 // Entry
-$_['entry_name']			= 'What is your name';
-$_['entry_telephone']		= 'Your phone number';
-$_['entry_enquiry']			= 'Comment';
-$_['entry_calltime']		= 'Convenient time for a call';
+$_['entry_name']			= 'Hvad er dit navn';
+$_['entry_telephone']		= 'Dit telefonnummer';
+$_['entry_enquiry']			= 'Kommentar';
+$_['entry_calltime']		= 'Bedste tid til et opkald';
 
 // Text
-$_['text_agree']			= 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_agree']			= 'Jeg har læst og er enig i <a href="%s" class="agree"><b>%s</b></a>';
 
 // Error
-$_['error_telephone']		= 'Phone must be from 4 to 24 characters!';
-$_['error_name']			= 'The name must be between 3 and 32 characters!';
-$_['error_enquiry']			= 'The comment should be from 10 to 360 characters!';
-$_['error_calltime']		= 'Specify a convenient time for the call!';
-$_['error_agree']			= 'Warning: You must agree to the %s!';
+$_['error_telephone']		= 'Telefonnummer skal være mellem 4 og 24 tegn!';
+$_['error_name']			= 'Navnet skal være mellem 3 og 32 tegn!';
+$_['error_enquiry']			= 'Kommentaren skal være mellem 10 og 360 tegn!';
+$_['error_calltime']		= 'Specificér det bedste tid til opkaldet!';
+$_['error_agree']			= 'Advarsel: Du skal være enig i %s!';

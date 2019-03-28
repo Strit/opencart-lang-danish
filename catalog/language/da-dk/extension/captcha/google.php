@@ -3,7 +3,7 @@
 $_['text_captcha']  = 'Captcha';
 
 // Entry
-$_['entry_captcha'] = 'Please complete the captcha validation below';
+$_['entry_captcha'] = 'Venligst færdiggør captcha verifikationen herunder';
 
 // Error
-$_['error_captcha'] = 'Verification is not correct!';
+$_['error_captcha'] = 'Verifikationen er ikke korrekt!';

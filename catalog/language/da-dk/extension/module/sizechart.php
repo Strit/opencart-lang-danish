@@ -1,3 +1,3 @@
 <?php
 // Text
-$_['text_sizechart']	= 'Size Chart';
+$_['text_sizechart']	= 'Størrelse Oversigt';

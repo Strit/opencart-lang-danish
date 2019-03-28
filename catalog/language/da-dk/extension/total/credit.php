@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_credit']   = 'Store Credit';
-$_['text_order_id'] = 'Order ID: #%s';
+$_['text_credit']   = 'Butik Kredit';
+$_['text_order_id'] = 'Ordre ID: #%s';
