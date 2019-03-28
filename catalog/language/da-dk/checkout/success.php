@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']        = 'Your order has been placed!';
+$_['heading_title']        = 'Din ordre er angivet!';
 
 // Text
-$_['text_basket']          = 'Shopping Cart';
-$_['text_checkout']        = 'Checkout';
+$_['text_basket']          = 'Indkøbskurv';
+$_['text_checkout']        = 'Check Ud';
 $_['text_success']         = 'Success';
-$_['text_customer']        = '<p>Your order has been successfully processed!</p><p>You can view your order history by going to the <a href="%s">my account</a> page and by clicking on <a href="%s">history</a>.</p><p>If your purchase has an associated download, you can go to the account <a href="%s">downloads</a> page to view them.</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
-$_['text_guest']           = '<p>Your order has been successfully processed!</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
+$_['text_customer']        = '<p>Din ordre er blevet angivet!</p><p>Du kan se din ordre historik ved at gå til <a href="%s">min konto</a> siden og klikke på <a href="%s">historik</a>.</p><p>Hvis dit køb har en hentning, så kan du gå til konto <a href="%s">hentninger</a> siden og se dem.</p><p>Venligst skriv til <a href="%s">butiksejeren</a> med eventuelle spørgsmål.</p><p>Tak fordi du handlede online hos os!</p>';
+$_['text_guest']           = '<p>Din ordre er blevet angivet!</p><p>Venligst skriv til <a href="%s">butiksejeren</a> med eventuelle spørgsmål.</p><p>Tak fordi du handlede online hos os!</p>';

@@ -1,41 +1,41 @@
 <?php
 // Heading
-$_['heading_title']            = 'Shopping Cart';
+$_['heading_title']            = 'Indkøbskurv';
 
 // Text
-$_['text_success']             = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
-$_['text_remove']              = 'Success: You have modified your shopping cart!';
-$_['text_login']               = 'Attention: You must <a href="%s">login</a> or <a href="%s">create an account</a> to view prices!';
-$_['text_items']               = '%s item(s) - %s';
-$_['text_points']              = 'Reward Points: %s';
-$_['text_next']                = 'What would you like to do next?';
-$_['text_next_choice']         = 'Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.';
-$_['text_empty']               = 'Your shopping cart is empty!';
-$_['text_day']                 = 'day';
-$_['text_week']                = 'week';
-$_['text_semi_month']          = 'half-month';
-$_['text_month']               = 'month';
-$_['text_year']                = 'year';
-$_['text_trial']               = '%s every %s %s for %s payments then ';
-$_['text_recurring']           = '%s every %s %s';
-$_['text_payment_cancel']      = 'until cancelled';
-$_['text_recurring_item']      = 'Recurring Item';
-$_['text_payment_recurring']   = 'Payment Profile';
-$_['text_trial_description']   = '%s every %d %s(s) for %d payment(s) then';
-$_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
-$_['text_payment_cancel']      = '%s every %d %s(s) until canceled';
+$_['text_success']             = 'Success: Du har tilføjet <a href="%s">%s</a> til din <a href="%s">indkøbskurv</a>!';
+$_['text_remove']              = 'Success: Du har ændret din indkøbskurv!';
+$_['text_login']               = 'Bemærk: Du skal <a href="%s">logge ind</a> eller <a href="%s">oprette en konto</a> for at se priser!';
+$_['text_items']               = '%s ting - %s';
+$_['text_points']              = 'Point: %s';
+$_['text_next']                = 'Hvad vil du så nu?';
+$_['text_next_choice']         = 'Vælg om duy har en rabat kode eller om du vil bruge point eller vil have beregning levelingomkostninger.';
+$_['text_empty']               = 'Din indkøbskurv er tom!';
+$_['text_day']                 = 'dag';
+$_['text_week']                = 'uge';
+$_['text_semi_month']          = 'halve-måned';
+$_['text_month']               = 'måned';
+$_['text_year']                = 'år';
+$_['text_trial']               = '%s hver %s %s for %s betalinger så ';
+$_['text_recurring']           = '%s hver %s %s';
+$_['text_payment_cancel']      = 'indtil annulleret';
+$_['text_recurring_item']      = 'Tilbagevendende Ting';
+$_['text_payment_recurring']   = 'Betalingsprofil';
+$_['text_trial_description']   = '%s hver %d %s(s) for %d betaling(er) så';
+$_['text_payment_description'] = '%s hver %d %s(s) for %d betaling(er)';
+$_['text_payment_cancel']      = '%s hver %d %s(s) indtil annulleret';
 
 // Column
-$_['column_image']             = 'Image';
-$_['column_name']              = 'Product Name';
+$_['column_image']             = 'Billede';
+$_['column_name']              = 'Produkt Navn';
 $_['column_model']             = 'Model';
-$_['column_quantity']          = 'Quantity';
-$_['column_price']             = 'Unit Price';
+$_['column_quantity']          = 'Antal';
+$_['column_price']             = 'Enhedspris';
 $_['column_total']             = 'Total';
 
 // Error
-$_['error_stock']              = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']            = 'Minimum order amount for %s is %s!';
-$_['error_required']           = '%s required!';
-$_['error_product']            = 'Warning: There are no products in your cart!';
-$_['error_recurring_required'] = 'Please select a payment recurring!';
+$_['error_stock']              = 'Produkter markeret med *** er ikke tilgængelige i den ønskede mængde eller er ikke på lager!';
+$_['error_minimum']            = 'Minimum ordre mængde for %s er %s!';
+$_['error_required']           = '%s påkrævet!';
+$_['error_product']            = 'Advarsel: Der er ingen produkter i din kurv!';
+$_['error_recurring_required'] = 'Vælg venligst en betalings tilbagevending!';

@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title'] = 'Failed Payment!';
+$_['heading_title'] = 'Betaling Fejlede!';
 
 // Text
-$_['text_basket']   = 'Shopping Cart';
-$_['text_checkout'] = 'Checkout';
-$_['text_failure']  = 'Failed Payment';
-$_['text_message']  = '<p>There was a problem processing your payment and the order did not complete.</p>
+$_['text_basket']   = 'Indkøbskurv';
+$_['text_checkout'] = 'Check Ud';
+$_['text_failure']  = 'Betaling Fejlede';
+$_['text_message']  = '<p>Der opstod et problem med din betaling eller ordren blev ikke gennemført.</p>
 
-<p>Possible reasons are:</p>
+<p>Mulige grunde kan være:</p>
 <ul>
-  <li>Insufficient funds</li>
-  <li>Verification failed</li>
+  <li>Ikke nok tilrådighed</li>
+  <li>Verifikation fejlet</li>
 </ul>
 
-<p>Please try to order again using a different payment method.</p>
+<p>Venligst prøv at bestil igen med en anden betalingsmetode.</p>
 
-<p>If the problem persists please <a href="%s">contact us</a> with the details of the order you are trying to place.</p>
+<p>Hvis problemet fortsætter så venligst <a href="%s">kontakt os</a> med ordre detaljerne for den ordre du prøver at lave.</p>
 ';
