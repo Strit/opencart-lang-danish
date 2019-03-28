@@ -1,16 +1,16 @@
 <?php
 // Text
-$_['text_home']          = 'Home';
-$_['text_wishlist']      = 'Wish List (%s)';
-$_['text_shopping_cart'] = 'Shopping Cart';
-$_['text_category']      = 'Categories';
-$_['text_account']       = 'My Account';
-$_['text_register']      = 'Register';
-$_['text_login']         = 'Login';
-$_['text_order']         = 'Order History';
-$_['text_transaction']   = 'Transactions';
-$_['text_download']      = 'Downloads';
-$_['text_logout']        = 'Logout';
-$_['text_checkout']      = 'Checkout';
-$_['text_search']        = 'Search';
-$_['text_all']           = 'Show All';
+$_['text_home']          = 'Hjem';
+$_['text_wishlist']      = 'Ønskeliste (%s)';
+$_['text_shopping_cart'] = 'Indkøbskurv';
+$_['text_category']      = 'Kategorier';
+$_['text_account']       = 'Min Konto';
+$_['text_register']      = 'Registrér';
+$_['text_login']         = 'Log Ind';
+$_['text_order']         = 'Ordre Historik';
+$_['text_transaction']   = 'Transaktioner';
+$_['text_download']      = 'Hentninger';
+$_['text_logout']        = 'Log Ud';
+$_['text_checkout']      = 'Check Ud';
+$_['text_search']        = 'Søg';
+$_['text_all']           = 'Vis Alle';
