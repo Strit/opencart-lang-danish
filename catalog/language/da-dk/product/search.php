@@ -1,34 +1,34 @@
 <?php
 // Heading
-$_['heading_title']     = 'Search';
+$_['heading_title']     = 'Søg';
 $_['heading_tag']       = 'Tag - ';
 
 // Text
-$_['text_search']       = 'Products meeting the search criteria';
-$_['text_keyword']      = 'Keywords';
-$_['text_category']     = 'All Categories';
-$_['text_sub_category'] = 'Search in subcategories';
-$_['text_empty']        = 'There is no product that matches the search criteria.';
-$_['text_quantity']     = 'Qty:';
-$_['text_manufacturer'] = 'Brand:';
-$_['text_model']        = 'Product Code:';
-$_['text_points']       = 'Reward Points:';
-$_['text_price']        = 'Price:';
-$_['text_tax']          = 'Ex Tax:';
-$_['text_reviews']      = 'Based on %s reviews.';
-$_['text_compare']      = 'Product Compare (%s)';
-$_['text_sort']         = 'Sort By:';
-$_['text_default']      = 'Default';
-$_['text_name_asc']     = 'Name (A - Z)';
-$_['text_name_desc']    = 'Name (Z - A)';
-$_['text_price_asc']    = 'Price (Low &gt; High)';
-$_['text_price_desc']   = 'Price (High &gt; Low)';
-$_['text_rating_asc']   = 'Rating (Lowest)';
-$_['text_rating_desc']  = 'Rating (Highest)';
-$_['text_model_asc']    = 'Model (A - Z)';
-$_['text_model_desc']   = 'Model (Z - A)';
-$_['text_limit']        = 'Show:';
+$_['text_search']       = 'Produkter der møder søgekriterierne';
+$_['text_keyword']      = 'Nøgleord';
+$_['text_category']     = 'Alle Kategorier';
+$_['text_sub_category'] = 'Søg i underkategorier';
+$_['text_empty']        = 'Der er ingen produlter der passer til søgekriterierne.';
+$_['text_quantity']     = 'Antal:';
+$_['text_manufacturer'] = 'Fanbrikant:';
+$_['text_model']        = 'Produkt Kode:';
+$_['text_points']       = 'Point:';
+$_['text_price']        = 'Pris:';
+$_['text_tax']          = 'Eksl Moms:';
+$_['text_reviews']      = 'Baseret på %s anmeldelser.';
+$_['text_compare']      = 'Produkt Sammenligning (%s)';
+$_['text_sort']         = 'Sortér Efter:';
+$_['text_default']      = 'Standard';
+$_['text_name_asc']     = 'Navn (A - Å)';
+$_['text_name_desc']    = 'Navn (Å - A)';
+$_['text_price_asc']    = 'Pris (Lav &gt; Høj)';
+$_['text_price_desc']   = 'Pris (Høj &gt; Lav)';
+$_['text_rating_asc']   = 'Bedømmelse (Lavest)';
+$_['text_rating_desc']  = 'Bedømmelse (Højest)';
+$_['text_model_asc']    = 'Model (A - Å)';
+$_['text_model_desc']   = 'Model (Å - A)';
+$_['text_limit']        = 'Vis:';
 
 // Entry
-$_['entry_search']      = 'Search Criteria';
-$_['entry_description'] = 'Search in product descriptions';
+$_['entry_search']      = 'Søgekriterier';
+$_['entry_description'] = 'Søg i produktbeskrivelser';

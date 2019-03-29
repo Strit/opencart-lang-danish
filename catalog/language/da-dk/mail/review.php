@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_subject']  = '%s - Product Review';
-$_['text_waiting']  = 'You have a new product review waiting.';
-$_['text_product']  = 'Product: %s';
-$_['text_reviewer'] = 'Reviewer: %s';
-$_['text_rating']   = 'Rating: %s';
-$_['text_review']   = 'Review Text:';
+$_['text_subject']  = '%s - Produkt Anmeldelse';
+$_['text_waiting']  = 'Du har en ny produkt anmeldelse der venter.';
+$_['text_product']  = 'Produkt: %s';
+$_['text_reviewer'] = 'Anmelder: %s';
+$_['text_rating']   = 'Bedømmelse: %s';
+$_['text_review']   = 'Anmeldese:';

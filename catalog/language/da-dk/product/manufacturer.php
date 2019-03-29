@@ -1,27 +1,27 @@
 <?php
 // Heading
-$_['heading_title']     = 'Find Your Favorite Brand';
+$_['heading_title']     = 'Find Din Favorit Fabrikant';
 
 // Text
-$_['text_brand']        = 'Brand';
-$_['text_index']        = 'Brand Index:';
-$_['text_error']        = 'Brand not found!';
-$_['text_empty']        = 'There are no products to list.';
-$_['text_quantity']     = 'Qty:';
-$_['text_manufacturer'] = 'Brand:';
-$_['text_model']        = 'Product Code:';
-$_['text_points']       = 'Reward Points:';
-$_['text_price']        = 'Price:';
-$_['text_tax']          = 'Ex Tax:';
-$_['text_compare']      = 'Product Compare (%s)';
-$_['text_sort']         = 'Sort By:';
-$_['text_default']      = 'Default';
-$_['text_name_asc']     = 'Name (A - Z)';
-$_['text_name_desc']    = 'Name (Z - A)';
-$_['text_price_asc']    = 'Price (Low &gt; High)';
-$_['text_price_desc']   = 'Price (High &gt; Low)';
-$_['text_rating_asc']   = 'Rating (Lowest)';
-$_['text_rating_desc']  = 'Rating (Highest)';
-$_['text_model_asc']    = 'Model (A - Z)';
-$_['text_model_desc']   = 'Model (Z - A)';
-$_['text_limit']        = 'Show:';
+$_['text_brand']        = 'Fabrikant';
+$_['text_index']        = 'Fabrikant Indeks:';
+$_['text_error']        = 'Fabrikant ikke fundet!';
+$_['text_empty']        = 'Der er ingen produkter at vise.';
+$_['text_quantity']     = 'Antal:';
+$_['text_manufacturer'] = 'Fabrikant:';
+$_['text_model']        = 'Produkt Kode:';
+$_['text_points']       = 'Point:';
+$_['text_price']        = 'Pris:';
+$_['text_tax']          = 'Eksl Moms:';
+$_['text_compare']      = 'Produkt Sammenligning (%s)';
+$_['text_sort']         = 'Sortér Efter:';
+$_['text_default']      = 'Standard';
+$_['text_name_asc']     = 'Navn (A - Å)';
+$_['text_name_desc']    = 'Navn (Å - A)';
+$_['text_price_asc']    = 'Pris (Lav &gt; Høj)';
+$_['text_price_desc']   = 'Pris (Høj &gt; Lav)';
+$_['text_rating_asc']   = 'Bedømmelse (Lavest)';
+$_['text_rating_desc']  = 'Bedømmelse (Højest)';
+$_['text_model_asc']    = 'Model (A - Å)';
+$_['text_model_desc']   = 'Model (Å - A)';
+$_['text_limit']        = 'Vis:';

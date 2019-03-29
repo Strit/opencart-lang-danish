@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_subject']      = '%s - Order Update %s';
-$_['text_order_id']     = 'Order ID:';
-$_['text_date_added']   = 'Date Added:';
-$_['text_order_status'] = 'Your order has been updated to the following status:';
-$_['text_comment']      = 'The comments for your order are:';
-$_['text_link']         = 'To view your order click on the link below:';
-$_['text_footer']       = 'Please reply to this email if you have any questions.';
+$_['text_subject']      = '%s - Ordre Opdatering %s';
+$_['text_order_id']     = 'Ordre ID:';
+$_['text_date_added']   = 'Dato Tilføjet:';
+$_['text_order_status'] = 'Din ordre er opdateret til følgende status:';
+$_['text_comment']      = 'Kommentarerne til din ordre er:';
+$_['text_link']         = 'For at se din ordre kan du klikke på linket herunder:';
+$_['text_footer']       = 'besvar venligst denne email hvis du har nogen spørgsmål.';

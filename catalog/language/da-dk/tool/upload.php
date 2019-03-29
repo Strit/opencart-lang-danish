@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_upload']    = 'Your file was successfully uploaded!';
+$_['text_upload']    = 'Din fil er blevet uploadet!';
 
 // Error
-$_['error_filename'] = 'Filename must be between 3 and 64 characters!';
-$_['error_filetype'] = 'Invalid file type!';
-$_['error_upload']   = 'Upload required!';
+$_['error_filename'] = 'Filnavn skal være mellem 3 og 64 tegn!';
+$_['error_filetype'] = 'Ugyldig filtype!';
+$_['error_upload']   = 'Upload påkrævet!';

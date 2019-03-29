@@ -1,17 +1,17 @@
 <?php
 // Text
 $_['text_subject']        = '%s - Affiliate Program';
-$_['text_welcome']        = 'Thank you for joining the %s Affiliate Program!';
-$_['text_login']          = 'Your account has now been created and you can log in by using your e-mail address and password by visiting our website or at the following URL:';
-$_['text_approval']       = 'Your account must be approved before you can login. Once approved you can log in by using your e-mail address and password by visiting our website or at the following URL:';
-$_['text_service']        = 'Upon logging in, you will be able to generate tracking codes, track commission payments and edit your account information.';
-$_['text_thanks']         = 'Thanks,';
-$_['text_new_affiliate']  = 'New Affiliate';
-$_['text_signup']         = 'A new affiliate has signed up:';
-$_['text_website']        = 'Web Site:';
-$_['text_customer_group'] = 'Customer Group:';
-$_['text_firstname']      = 'First Name:';
-$_['text_lastname']       = 'Last Name:';
-$_['text_company']        = 'Company:';
-$_['text_email']          = 'E-Mail:';
-$_['text_telephone']      = 'Telephone:';
+$_['text_welcome']        = 'Tak fordi du har tilmeldt dig %s Affiliate Program!';
+$_['text_login']          = 'Din konto er nu oprettet og du kan logge på med din email adresse og adgangskode ved at besøge vores hjemmeside eller følge dette link:';
+$_['text_approval']       = 'Din konto skal godkendes før du kan logge ind. Når den er godkendt kan du logge ind med din email adresse og adgangskode ved at besøge vores hjemmeside eller følge dette link:';
+$_['text_service']        = 'Når du er logget ind har du mulighed for at generere sporingskoder, holde styr på betalinger og ændre dine konto oplysninger.';
+$_['text_thanks']         = 'Tak,';
+$_['text_new_affiliate']  = 'Ny Affiliate';
+$_['text_signup']         = 'En ny affiliate er tilmeldt:';
+$_['text_website']        = 'Hjemmeside:';
+$_['text_customer_group'] = 'Kunde Gruppe:';
+$_['text_firstname']      = 'Fornavn:';
+$_['text_lastname']       = 'Efternavn:';
+$_['text_company']        = 'Firma:';
+$_['text_email']          = 'Email:';
+$_['text_telephone']      = 'Telefonnummer:';

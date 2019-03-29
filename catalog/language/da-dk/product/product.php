@@ -1,50 +1,50 @@
 <?php
 // Text
-$_['text_search']              = 'Search';
-$_['text_brand']               = 'Brand';
-$_['text_manufacturer']        = 'Brand:';
-$_['text_model']               = 'Product Code:';
-$_['text_reward']              = 'Reward Points:';
-$_['text_points']              = 'Price in reward points:';
-$_['text_stock']               = 'Availability:';
-$_['text_instock']             = 'In Stock';
-$_['text_tax']                 = 'Ex Tax:';
-$_['text_discount']            = ' or more ';
-$_['text_option']              = 'Available Options';
-$_['text_minimum']             = 'This product has a minimum quantity of %s';
-$_['text_reviews']             = '%s reviews';
-$_['text_write']               = 'Write a review';
-$_['text_login']               = 'Please <a href="%s">login</a> or <a href="%s">register</a> to review';
-$_['text_no_reviews']          = 'There are no reviews for this product.';
-$_['text_note']                = '<span class="text-danger">Note:</span> HTML is not translated!';
-$_['text_success']             = 'Thank you for your review. It has been submitted to the webmaster for approval.';
-$_['text_related']             = 'Related Products';
+$_['text_search']              = 'Søg';
+$_['text_brand']               = 'Fabrikant';
+$_['text_manufacturer']        = 'Fabrikant:';
+$_['text_model']               = 'Produkt Kode:';
+$_['text_reward']              = 'Point:';
+$_['text_points']              = 'Pris i point:';
+$_['text_stock']               = 'Tilgængelighed:';
+$_['text_instock']             = 'På Lager';
+$_['text_tax']                 = 'Eksl Moms:';
+$_['text_discount']            = ' eller mere ';
+$_['text_option']              = 'Tilgængelige Muligheder';
+$_['text_minimum']             = 'Dette produkt har en minimum mængde på %s';
+$_['text_reviews']             = '%s anmeldelser';
+$_['text_write']               = 'skriv en anmeldelse';
+$_['text_login']               = 'venligst <a href="%s">log ind</a> eller <a href="%s">registrér</a> for at anmelde';
+$_['text_no_reviews']          = 'Der er ingen anmeldelser af dette produkt.';
+$_['text_note']                = '<span class="text-danger">Note:</span> HTML er ikke oversat!';
+$_['text_success']             = 'Tak for din anmeldelse. Den er blevet sendt til godkendelse hos webmasteren.';
+$_['text_related']             = 'Relaterede Produkter';
 $_['text_tags']                = 'Tags:';
-$_['text_error']               = 'Product not found!';
-$_['text_payment_recurring']   = 'Payment Profile';
-$_['text_trial_description']   = '%s every %d %s(s) for %d payment(s) then';
-$_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
-$_['text_payment_cancel']      = '%s every %d %s(s) until canceled';
-$_['text_day']                 = 'day';
-$_['text_week']                = 'week';
-$_['text_semi_month']          = 'half-month';
-$_['text_month']               = 'month';
-$_['text_year']                = 'year';
+$_['text_error']               = 'Produkt ikke fundet!';
+$_['text_payment_recurring']   = 'Betalingsprofil';
+$_['text_trial_description']   = '%s hver %d %s(s) over %d betaling(er) så';
+$_['text_payment_description'] = '%s hver %d %s(s) over %d betaling(er)';
+$_['text_payment_cancel']      = '%s hver %d %s(s) indtil annulleret';
+$_['text_day']                 = 'dag';
+$_['text_week']                = 'uge';
+$_['text_semi_month']          = 'halv-måned';
+$_['text_month']               = 'måned';
+$_['text_year']                = 'år';
 
 // Entry
-$_['entry_qty']                = 'Qty';
-$_['entry_name']               = 'Your Name';
-$_['entry_review']             = 'Your Review';
-$_['entry_rating']             = 'Rating';
-$_['entry_good']               = 'Good';
-$_['entry_bad']                = 'Bad';
+$_['entry_qty']                = 'Antal';
+$_['entry_name']               = 'Dit Navn';
+$_['entry_review']             = 'Din Anmeldelse';
+$_['entry_rating']             = 'Bedømmelse';
+$_['entry_good']               = 'God';
+$_['entry_bad']                = 'Dårlig';
 
 // Tabs
-$_['tab_description']          = 'Description';
-$_['tab_attribute']            = 'Specification';
-$_['tab_review']               = 'Reviews (%s)';
+$_['tab_description']          = 'Beskrivelse';
+$_['tab_attribute']            = 'Specifikation';
+$_['tab_review']               = 'Anmeldelser (%s)';
 
 // Error
-$_['error_name']               = 'Warning: Review Name must be between 3 and 25 characters!';
-$_['error_text']               = 'Warning: Review Text must be between 25 and 1000 characters!';
-$_['error_rating']             = 'Warning: Please select a review rating!';
+$_['error_name']               = 'Advarsel: Anmelder Navn skal være mellem 3 og 25 tegn!';
+$_['error_text']               = 'Advarsel: Anmeldelse skal være mellem 25 og 1000 tegn!';
+$_['error_rating']             = 'Advarsel: Vælg venligst en bedømmelse!';
